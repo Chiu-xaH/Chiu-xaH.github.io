@@ -1,15 +1,16 @@
+<!DOCTYPE html>
 <html>
- <head> 
-  <meta charset="UTF-8"> 
-  <title>请柬</title> 
-  <style>
+<head>
+    <meta charset="UTF-8">
+    <title>升学宴电子请柬</title>
+    <style>
         body {
             font-family: Arial, sans-serif;
             text-align: center;
-        }
-
-        h1 {
-            color: #FF4C47;
+            background-image: url('https://s2.loli.net/2023/07/27/ptKSZGU6zdBjWO3.jpg'); /* 替换为你喜欢的背景图片 URL */
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
         }
 
         .container {
@@ -18,6 +19,11 @@
             margin: 50px auto;
             max-width: 600px;
             border-radius: 10px;
+            background-color: rgba(255, 255, 255, 0.5); /* 设置容器背景透明度 */
+        }
+
+        h1 {
+            color: #FF4C47;
         }
 
         .message {
@@ -32,37 +38,94 @@
 
         .date-time {
             color: #007BFF;
-            font-size:  25px
+            font-size:  25px;
         }
-        
+
         .time {
-            font-size:  25px
-            }
+            font-size:  25px;
+        }
 
         .location {
             margin-top: 10px;
-            font-size:  25px
+            font-size:  25px;
         }
-    </style> 
-  <script src="js/jq.js"></script> 
- </head> 
- <body id="v1"> 
-  <div id="v2" class="container"> 
-   <h1 id="v3">升学宴请柬</h1> 
-   <div id="v4" class="message">
-     亲爱的高中挚友
-    <p id="v5">谨定于本月十日，在 兴城市曹庄镇 举办本人的升学宴，诚邀您共襄盛举。</p> 
-   </div> 
-   <div id="v6" class="event-details"> 
-    <p id="v7" class="date-time">日期：2023年8月10日</p> 
-    <p id="v8" class="time">时间：<strong>11:00</strong></p> 
-    <p id="v9" class="location">地点：曹庄镇</p> 
-   </div> 
-   <p id="v10">须知: &nbsp;推荐乘坐 古城南关 公交站附近的 <strong id="v11">兴城——荒地</strong> 客车前往，半点整点发车 &nbsp; &nbsp;</p> 
-   <p id="v12">届时本人在集合地点等候，将由家人接至目的地</p> &nbsp; 
-   <p id="v14"></p> 
-   <h2 id="v15">期待您的到来！——赵思涵</h2> 
-   <p></p> 
-  </div>  
- </body>
+
+        .note {
+            font-size: 16px;
+            margin-top: 20px;
+            color: #888;
+        }
+
+        .invitation {
+            font-size: 25px;
+            color: #008000;
+        }
+
+        .footer {
+            font-size: 12px;
+            margin-top: 30px;
+            color: #888;
+        }
+        #enterButton {
+            background-color: #F9593F;
+            color: #fff;
+            padding: 12px 24px;
+            font-size: 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        #enterButton:hover {
+            background-color: #C4593F;
+        }
+
+        #enterButton:focus {
+            outline: none;
+        }
+    </style>
+</head>
+<body>
+
+<h1>嗨，朋友，请点击按钮启函</h1>
+
+<button id="enterButton" onclick="enterEvent()">点击开启</button>
+
+<div id="eventContainer" style="display: none;">
+<div class="container">
+    <h1>升学宴电子请柬</h1>
+    <div class="message">
+        亲爱的高中挚友，
+        <p>谨定于本月十日，在曹庄镇举办本人的升学宴，诚邀您共襄盛举。</p >
+    </div>
+    <div class="event-details">
+        <p class="date-time">日期：2023年8月10日</p >
+        <p class="time">时间：<strong>11:00</strong></p >
+        <p class="location">地点：曹庄镇</p >
+    </div>
+    <p class="note">须知：推荐乘坐古城南关公交站附近的<strong>兴城——荒地</strong>客车前往，半点整点发车。</p >
+    <p>届时本人在集合地点等候，将由家人接至目的地。</p >
+    <p class="invitation">期待您的到来！——赵思涵</p >
+    <p class="footer">此电子请柬仅作为邀请函使用</p >
+</div>
+
+
+<audio controls autoplay>
+    <source src="https://example.com/music.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
+</div>
+
+<script>
+    function enterEvent() {
+        var enterButton = document.getElementById("enterButton");
+        var eventContainer = document.getElementById("eventContainer");
+
+        eventContainer.style.display = "block";
+        enterButton.style.display = "none";
+    }
+</script>
+
+</body>
 </html>
