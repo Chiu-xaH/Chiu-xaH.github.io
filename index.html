@@ -1,13 +1,131 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>按钮链接示例</title>
+    <meta charset="UTF-8">
+    <title>升学宴请柬</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-image: url('https://s2.loli.net/2023/07/27/NapwH82YkAK579s.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+
+        .container {
+            border: 1px solid #007BFF;
+            padding: 20px;
+            margin: 50px auto;
+            max-width: 600px;
+            border-radius: 10px;
+            background-color: rgba(255, 255, 255, 0.5);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(12px);
+        }
+
+        h1 {
+            color: #FF4C47;
+        }
+        h2 {
+            color: #000000;
+        }
+        .message {
+            font-size: 25px;
+            margin-top: 20px;
+        }
+
+        .event-details {
+            font-size: 16px;
+            margin-top: 30px;
+        }
+
+        .date-time {
+            color: #008000;
+            font-size:  25px;
+        }
+
+        .time {
+            font-size:  25px;
+            color: #008000;
+        }
+
+        .location {
+            margin-top: 10px;
+            font-size:  25px;
+            color: #008000;
+        }
+
+        .note {
+            font-size: 16px;
+            margin-top: 20px;
+            color: #888;
+        }
+
+        .invitation {
+            font-size: 25px;
+        }
+
+        .footer {
+            font-size: 12px;
+            margin-top: 30px;
+            color: #888;
+        }
+        #enterButton {
+            background-color: #F9593F;
+            color: #fff;
+            padding: 12px 24px;
+            font-size: 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        #enterButton:hover {
+            background-color: #C4593F;
+        }
+
+        #enterButton:focus {
+            outline: none;
+        }
+    </style>
 </head>
 <body>
-  <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <a href="baidumap://map/direction?origin=&destination=曹庄镇后湖村" target="_blank">
-      <button style="padding: 10px 20px; background-color: #007BFF; color: #fff; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">点击导航</button>
-    </a >
-  </div>
+
+<h2>嗨，朋友，请启函</h2>
+
+<button id="enterButton" onclick="enterEvent()">开启</button>
+
+<div id="eventContainer" style="display: none;">
+<div class="container">
+    <h1>升学宴请柬</h1>
+    <div class="message">
+        亲爱的高中挚友
+        <p>谨定于本月九日，举办本人升学宴，诚邀您共襄盛举</p >
+    </div>
+    <div class="event-details">
+        <p class="date-time">日期：<strong>2023年8月9日</strong></p >
+        <p class="time">时间：<strong>10:00</strong></p >
+        <p class="location">地点：<strong>葫芦岛市 龙港区 龙绣街 李员外菜馆</strong></p >
+    </div>
+    <p>出行：乘坐 29路 至 <strong>军休家园</strong> 下车,全程约 30 分钟</p>
+    <p><strong>考虑到位置原因，本人会在兴城提前等候并与大家陪同乘车</p>
+    <p><strong>请 9:30 之前到达 东电疗养院 (兴城1路站点)</strong></p>
+    <p class="invitation">期待您的到来！——赵思涵</p >
+    <a href="https://cream-blue-64a.notion.site/07-31-7614946fb77949099f75b443c4982e4a"target="_blank">宴请名单</a>
+</div>
+
+
+<script>
+    function enterEvent() {
+        var enterButton = document.getElementById("enterButton");
+        var eventContainer = document.getElementById("eventContainer");
+
+        eventContainer.style.display = "block";
+        enterButton.style.display = "none";
+    }
+</script>
+
 </body>
 </html>
