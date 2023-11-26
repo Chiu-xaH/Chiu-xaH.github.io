@@ -17,13 +17,7 @@
             "info" : "雨课堂"
         }
     ],
-        "Schedule" : [
-        {
-            "title" : "升旗",
-            "time" : "周一 6:55",
-            "info" : "广场"
-}
-]
+        "Schedule" : []
 },
     "SettingsInfo" : {
         "title" : "最新版 2.3.1",
