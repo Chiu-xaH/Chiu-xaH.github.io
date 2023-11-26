@@ -12,12 +12,18 @@
             "info" : "超星学习通"
         },
         {
-            "title" : "英语测试",
+            "title" : "英语测试 3",
             "time" : "12-04 9:00",
             "info" : "雨课堂"
         }
     ],
-        "Schedule" : []
+        "Schedule" : [
+        {
+             "title" : "云控测试",
+             "time" : "",
+             "info" : "无需更新即可修改此页内容"
+        }
+]
 },
     "SettingsInfo" : {
         "title" : "最新版 2.3.1",
