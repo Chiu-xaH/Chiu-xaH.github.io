@@ -28,5 +28,12 @@
         "title" : "最新版本 2.5.1.1",
         "info"  : "作为2.5.1补充版本,以优化细节为主"
     },
-     "semesterId" : "234"
+     "semesterId" : "234",
+    "Notifications" : [
+        {
+            "title" : "测试",
+            "info" : "已连接到接口",
+            "remark" "紧急通知"
+        }
+    ]
 }
