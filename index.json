@@ -44,9 +44,9 @@
 ]
 },
     "SettingsInfo" : {
-        "version" : "2.5.3",
-        "title" : "最新版本 2.5.3",
-        "info"  : "本版本对聚焦进行了升级,并修复了跨年Bug,推荐更新"
+        "version" : "2.5.3.1",
+        "title" : "最新版本 2.5.3.1",
+        "info"  : "本版本新增成绩查询"
     },
      "semesterId" : "234",
     "Notifications" : [
