@@ -51,8 +51,8 @@
      "semesterId" : "234",
     "Notifications" : [
          {
-            "title" : "设备损坏通知",
-            "info" : "宣区图书馆自助打印设备已坏",
+            "title" : "通知中心",
+            "info" : "在这里可发放通知,目前没通知",
             "remark" : "12-23"
         }
     ]
