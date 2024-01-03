@@ -24,7 +24,11 @@
         }
     ],
         "Schedule" : [
-            
+            {
+            "title" : "班会",
+            "time"  : "01-08 10:00",
+            "info"  : "电子电气楼"
+        }
 ]
 },
     "SettingsInfo" : {
