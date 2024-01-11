@@ -17,10 +17,13 @@
             "title" : "大学生心理健康",
             "time"  : "01-23 23:59",
             "info"  : "学堂在线"
+        },{
+            "title" : "教师评教",
+            "info" : "合工大教务 公众号",
+            "time" : "02-23"
         }
     ],
-        "Schedule" : [
-]
+        "Schedule" : []
 },
     "SettingsInfo" : {
         "version" : "3.0.3.1",
@@ -28,11 +31,5 @@
         "info"  : "最近进入期末,暂时分身乏术,停更到考试结束"
     },
      "semesterId" : "234",
-    "Notifications" : [
-        {
-            "title" : "教师评教",
-            "info" : "放假了记得给评教,会做一个一键评教功能,现在懒得做,元旦后整,先去HFUT-Space吧",
-            "remark" : "截止到 2月23日"
-        }
-    ]
+    "Notifications" : []
 }
