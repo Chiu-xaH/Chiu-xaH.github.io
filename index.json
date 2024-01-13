@@ -29,6 +29,7 @@
         "version" : "3.0.3.1",
         "title" : "期末周 暂缓更新",
         "info"  : "祝大家考得都会,蒙的都对 😋"
+        "celebration" : false
     },
      "semesterId" : "234",
     "Notifications" : []
