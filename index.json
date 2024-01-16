@@ -19,7 +19,13 @@
             "time" : "02-23"
         }
     ],
-        "Schedule" : []
+        "Schedule" : [
+        {
+            "title" : "距离放假还有",
+            "info" : "10 天",
+            "time" : "01-16 更新"
+        }
+    ]
 },
     "SettingsInfo" : {
         "version" : "3.0.3.3",
