@@ -22,8 +22,12 @@
         "celebration" : true
     },
      "semesterId" : "254",
-    "Notifications" : [
+    "Notifications" : [   
      {
+        "title" : "紧急通知",
+        "info"  : "一卡通二级界面疑似突然出现崩溃问题,明日排查",
+        "remark" : "01-21"
+     },{
         "title" : "新课表",
         "info"  : "已切换下学期课表,凡2.4.4及以上版本均可直接登录更新数据",
         "remark" : "01-20"
