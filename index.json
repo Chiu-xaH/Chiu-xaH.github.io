@@ -5,15 +5,15 @@
     ],
         "Schedule" : [
        {
-            "title" : "就剩 3 天就可以润啦",
-            "info" : "很想出去玩,寒潮好烦 🙄",
-            "time" : "01-22 更新"
+            "title" : "后天就可以走啦 😆",
+            "info" : "寒潮来袭,冷呀 😪",
+            "time" : "01-23 更新"
         }
     ]
 },
     "SettingsInfo" : {
         "version" : "3.0.3.4",
-        "title" : "过了本周就放假啦",
+        "title" : "放假倒计时中",
         "info"  : "赶紧放假吧 要去玩儿 🤗",
         "celebration" : true
     },
