@@ -4,17 +4,13 @@
         
     ],
         "Schedule" : [
-       {
-            "title" : "明天考完放假喽 😆",
-            "info" : "回暖行不 冻得慌 😪",
-            "time" : "01-24 更新"
-        }
+       
     ]
 },
     "SettingsInfo" : {
         "version" : "3.0.3.4",
-        "title" : "假期快乐",
-        "info"  : "圆满结束 祝假期快乐 🥳",
+        "title" : "考试周结束",
+        "info"  : "圆满撒花 祝你假期快乐 🥳",
         "celebration" : true
     },
      "semesterId" : "254",
