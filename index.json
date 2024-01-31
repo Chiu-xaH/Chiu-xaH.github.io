@@ -21,9 +21,9 @@
     "TimeStamp" : "202401301655"
 },
     "SettingsInfo" : {
-        "version" : "3.1",
-        "title" : "最新版本 3.1",
-        "info"  : "假期后第一个大版本来啦,本次主要重构了离线课表",
+        "version" : "3.1.1",
+        "title" : "最新版本 3.1.1",
+        "info"  : "应需求,教务成绩数据接口回归了,可以查看详细成绩了",
         "celebration" : false
     },
      "semesterId" : "254",
