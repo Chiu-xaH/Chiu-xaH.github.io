@@ -22,9 +22,9 @@
 },
     "SettingsInfo" : {
         "version" : "3.2",
-        "title" : "最新版本 3.2",
+        "title" : "今天是北方小年哦",
         "info"  : "本次3.2大版本引入了快速启动功能,推荐更新",
-        "celebration" : false
+        "celebration" : true
     },
      "semesterId" : "254",
     "Notifications" : [   
