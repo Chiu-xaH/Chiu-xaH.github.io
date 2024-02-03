@@ -21,10 +21,10 @@
     "TimeStamp" : "202401301655"
 },
     "SettingsInfo" : {
-        "version" : "3.2.1",
-        "title" : "今天是南方小年哦",
-        "info"  : "停更两天",
-        "celebration" : true
+        "version" : "3.2.1.1",
+        "title" : "最新版本 3.2.1.1",
+        "info"  : "有事要暂时停更两天",
+        "celebration" : false
     },
      "semesterId" : "254",
     "Notifications" : [   
