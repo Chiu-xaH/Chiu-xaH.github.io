@@ -21,9 +21,9 @@
     "TimeStamp" : "202401301655"
 },
     "SettingsInfo" : {
-        "version" : "3.2.1.1",
-        "title" : "最新版本 3.2.1.1",
-        "info"  : "有事要暂时停更两天",
+        "version" : "3.3",
+        "title" : "最新版本 3.3",
+        "info"  : "本次更新初步引入了课表布局切换,自由切换五列或七列",
         "celebration" : false
     },
      "semesterId" : "254",
