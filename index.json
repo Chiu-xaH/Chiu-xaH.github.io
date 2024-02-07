@@ -1,8 +1,6 @@
 {
     "Lessons" : {
-        "MyList" : [
-        
-    ],
+        "MyList" : [],
         "Schedule" : [
             {
                 "title" : "第二轮选课",
@@ -26,7 +24,5 @@
         "celebration" : false
     },
      "semesterId" : "254",
-    "Notifications" : [   
-        
-     ]
+    "Notifications" : []
 }
