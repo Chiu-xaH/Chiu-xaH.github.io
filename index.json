@@ -19,9 +19,9 @@
 },
     "SettingsInfo" : {
         "version" : "3.3",
-        "title" : "最新版本 3.3",
-        "info"  : "本次更新初步引入了课表布局切换,自由切换五列或七列",
-        "celebration" : false
+        "title" : "新年快乐",
+        "info"  : "肥专人记得除夕买票🤣",
+        "celebration" : true
     },
      "semesterId" : "254",
     "Notifications" : []
