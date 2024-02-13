@@ -24,5 +24,11 @@
         "celebration" : true
     },
      "semesterId" : "254",
-    "Notifications" : []
+    "Notifications" : [
+        {
+            "title" : "崩溃通知 📢",
+            "remark" : "近日",
+            "info" : "学校教务系统网站崩溃无法登陆，由于历史遗留原因，本APP采用登录教务系统作为判定登录成功机制，受其影响最近登录功能也失效了，等学校修吧", 
+        }
+    ]
 }
