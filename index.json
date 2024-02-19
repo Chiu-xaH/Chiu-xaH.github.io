@@ -18,21 +18,13 @@
     ]
 },
     "SettingsInfo" : {
-        "version" : "4.0.2",
-        "title" : "最新版本 4.0.2",
-        "info"  : "下周开学了哦 🤨",
+        "version" : "4.1",
+        "title" : "最新版本 4.1",
+        "info"  : "本版本引入了高斯模糊,提升界面的美观,建议更新",
         "celebration" : false
     },
      "semesterId" : "254",
     "Notifications" : [
-        {
-            "title" : "通知",
-            "remark" : "近日",
-            "info" : "学校教务系统网站在外网已可登陆"
-        },{
-            "title" : "周数判定错误 Bug",
-            "remark" : "近日",
-            "info" : "周数判定有误，提前一周，等待修复"
-        }
+    
     ]
 }
