@@ -18,7 +18,7 @@
     ]
 },
     "SettingsInfo" : {
-        "version" : "4.0.2",
+        "version" : "4.1",
         "title" : "最新版本 4.1",
         "info"  : "本版本引入了高斯模糊,提升界面的美观,建议更新",
         "celebration" : false
