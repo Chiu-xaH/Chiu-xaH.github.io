@@ -18,10 +18,10 @@
     ]
 },
     "SettingsInfo" : {
-        "version" : "4.1.1",
-        "title" : "最新版本 4.1.1",
-        "info"  : "返校后继续更新",
-        "celebration" : false
+        "version" : "4.1.2",
+        "title" : "开学啦",
+        "info"  : "欢迎回到校园",
+        "celebration" : true
     },
      "semesterId" : "254",
     "Notifications" : [
