@@ -4,19 +4,27 @@
             {
                 "title" : "第七章 测试&互评",
                 "time" : "03-29 22:00",
-                "info" : "中国大学MOOC"
+                "info" : "中国大学MOOC",
+                "startTime" : [2024,3,29,22,0],
+                "endTime" : [2024,3,29,22,0]
             },{
                 "title" : "第七章 作业",
                 "time" : "03-22 22:00",
-                "info" : "中国大学MOOC"
+                "info" : "中国大学MOOC",
+                "startTime" : [2024,3,22,22,0],
+                "endTime" : [2024,3,22,22,0]
             },{
                 "title" : "第八章 作业",
                 "time" : "04-05 22:00",
-                "info" : "中国大学MOOC"
+                "info" : "中国大学MOOC",
+                "startTime" : [2024,4,5,22,0],
+                "endTime" : [2024,4,5,22,0]
             },{
                 "title" : "第八章 互评",
                 "time" : "04-12 22:00",
-                "info" : "中国大学MOOC"
+                "info" : "中国大学MOOC",
+                "startTime" : [2024,4,12,22,0],
+                "endTime" : [2024,4,12,22,0]
             }
         ],
         "Schedule" : [
