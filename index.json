@@ -1,6 +1,24 @@
 {
     "Lessons" : {
-        "MyList" : [],
+        "MyList" : [
+            {
+                "title" : "第七章 测试&互评",
+                "time" : "03-29 22:00",
+                "info" : "中国大学MOOC"
+            },{
+                "title" : "第七章 作业",
+                "time" : "03-22 22:00",
+                "info" : "中国大学MOOC"
+            },{
+                "title" : "第八章 作业",
+                "time" : "04-05 22:00",
+                "info" : "中国大学MOOC"
+            }
+                "title" : "第八章 互评",
+                "time" : "04-12 22:00",
+                "info" : "中国大学MOOC"
+            }
+        ],
         "Schedule" : [
             {
                 "title" : "第二轮选课",
