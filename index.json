@@ -25,9 +25,9 @@
 },
     "SettingsInfo" : {
         "version" : "4.1.3",
-        "title" : "开学啦",
-        "info"  : "欢迎回到校园,新学期让我们携手共进 😊",
-        "celebration" : true
+        "title" : "最新版本 4.1.3",
+        "info"  : "最近没啥新想法",
+        "celebration" : false
     },
      "semesterId" : "254",
     "Notifications" : [
