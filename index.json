@@ -31,7 +31,7 @@
             {
                 "title" : "第二轮选课",
                 "time" : "02-29 08:30 ～ 03-02 17:00",
-                "info" : "教务系统 未开始",
+                "info" : "教务系统",
                 "startTime" : [2024,2,29,8,30],
                 "endTime" : [2024,3,2,17,0]
             },{
@@ -56,7 +56,7 @@
         "celebration" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "02-27 20:40 更新",
+    "TimeStamp" : "02-28 17:43 更新",
     "Notifications" : [
             {
                 "title" : "功能通知",
