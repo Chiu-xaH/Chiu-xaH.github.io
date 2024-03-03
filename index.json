@@ -52,7 +52,7 @@
     "SettingsInfo" : {
         "version" : "4.1.5",
         "title" : "最新版本 4.1.5",
-        "info"  : "最近没啥新想法",
+        "info"  : "最近发现一卡通里面的搜索在收回输入法时会崩溃,好久没动那里的了,不太记得了,正在修",
         "celebration" : false
     },
      "semesterId" : "254",
