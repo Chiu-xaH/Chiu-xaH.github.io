@@ -40,6 +40,12 @@
                 "info" : "2～12周 每周二晚",
                 "startTime" : [2024,3,5,18,20],
                 "endTime" : [2024,3,5,20,0]
+            },{
+                "title" : "C语言 在线测试",
+                "time" : "03-03 21:30 ～ 21:45",
+                "info" : "长江雨课堂",
+                "startTime" : [2024,3,3,21,30],
+                "endTime" : [2024,3,3,21,45]
             }
     ]
 },
@@ -50,7 +56,7 @@
         "celebration" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "03-03 00:10 更新",
+    "TimeStamp" : "03-03 11:13 更新",
     "Notifications" : [
             {
                 "title" : "功能通知",
