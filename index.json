@@ -46,11 +46,11 @@
     "SettingsInfo" : {
         "version" : "4.2",
         "title" : "最新版本 4.2",
-        "info"  : "4.2因为重构了一卡通,有点瑕疵,在修了,先凑合用吧",
+        "info"  : "4.2因为重构了一卡通,有不少瑕疵,在修了,先凑合用吧",
         "celebration" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "03-06 00:07 更新",
+    "TimeStamp" : "03-06 08:15 更新",
     "Notifications" : [
             {
                 "title" : "功能通知",
