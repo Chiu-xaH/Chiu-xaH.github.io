@@ -44,13 +44,13 @@
     ]
 },
     "SettingsInfo" : {
-        "version" : "4.2",
-        "title" : "最新版本 4.2",
-        "info"  : "最新版本已准备好发行,更新很多",
+        "version" : "4.2.1",
+        "title" : "最新版本 4.2.1",
+        "info"  : "最新版本发布啦,继续休息",
         "celebration" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "03-07 21:14 更新",
+    "TimeStamp" : "03-07 21:54 更新",
     "Notifications" : [
             {
                 "title" : "功能通知",
