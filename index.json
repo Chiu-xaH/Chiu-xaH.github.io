@@ -40,7 +40,7 @@
                 "info" : "长江雨课堂",
                 "startTime" : [2024,3,9,21,30],
                 "endTime" : [2024,3,9,21,45]
-            }
+            
     ]
 },
     "SettingsInfo" : {
@@ -50,7 +50,7 @@
         "celebration" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "03-10 22:54 更新",
+    "TimeStamp" : "03-10 22:54 测试更新",
     "Notifications" : [
             {
                 "title" : "功能通知",
