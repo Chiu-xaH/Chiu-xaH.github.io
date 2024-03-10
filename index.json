@@ -5,8 +5,8 @@
                 "title" : "第七章 作业",
                 "time" : "03-22 22:00 截止",
                 "info" : "中国大学MOOC",
-                "startTime" : [2024,3,22,22,0],
-                "endTime" : [2024,3,22,22,0]
+                "startTime" : [2024,03,22,22,00],
+                "endTime" : [2024,03,22,22,00]
             },{
                 "title" : "第七章 测试&互评",
                 "time" : "03-29 22:00 截止",
@@ -56,7 +56,7 @@
         "celebration" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "03-09 10:48 更新",
+    "TimeStamp" : "03-10 19:33 更新",
     "Notifications" : [
             {
                 "title" : "功能通知",
