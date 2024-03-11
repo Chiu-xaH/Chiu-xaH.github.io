@@ -56,13 +56,13 @@
     ]
 },
     "SettingsInfo" : {
-        "version" : "4.2.2",
-        "title" : "最新版本 4.2.2",
-        "info"  : "最新版本发布啦,继续休息",
+        "version" : "4.2.3",
+        "title" : "最新版本 4.2.3",
+        "info"  : "最新版本发布啦,聚焦时间逻辑重构,可能会不兼容?",
         "celebration" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "03-11 13:16 更新",
+    "TimeStamp" : "03-11 13:33 更新",
     "Notifications" : [
             {
                 "title" : "功能通知",
