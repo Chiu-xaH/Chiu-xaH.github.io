@@ -2,6 +2,13 @@
     "Lessons" : {
         "MyList" : [
             {
+                "title" : "慕课 开放",
+                "time" : "03-21 8:00 ~ 04-17 18:00",
+                "info" : "超星尔雅 hfgydx.fy.chaoxing.com",
+                "startTime" : [2024,3,21,8,0],
+                "endTime" : [2024,4,17,18,0]
+                },
+            {
                 "title" : "第七章 作业",
                 "time" : "03-22 22:00 截止",
                 "info" : "中国大学MOOC",
@@ -52,13 +59,7 @@
                 "info" : "课堂",
                 "startTime" : [2024,3,18,9,0],
                 "endTime" : [2024,3,18,9,50]
-                },{
-                "title" : "慕课 开放",
-                "time" : "03-21 8:00 ~ 04-17 18:00",
-                "info" : "超星尔雅 hfgydx.fy.chaoxing.com",
-                "startTime" : [2024,3,21,8,0],
-                "endTime" : [2024,4,17,18,0]
-                },
+                }
     ]
 },
     "SettingsInfo" : {
