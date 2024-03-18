@@ -56,13 +56,13 @@
     ]
 },
     "SettingsInfo" : {
-        "version" : "4.3.1",
-        "title" : "最新版本 4.3.1",
-        "info"  : "一卡通登录过期,没法用的更新,已修复 \n最近学校教务那边也不修,只能用校园网登录,我这边也懒得换接口,等学校修",
+        "version" : "4.3.1.1",
+        "title" : "最新版本 4.3.1.1",
+        "info"  : "本应用已上架某小平台",
         "celebration" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "03-18 00:19 更新",
+    "TimeStamp" : "03-18 20:03 更新",
     "Notifications" : [
             {
                 "title" : "功能通知",
