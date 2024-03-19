@@ -52,6 +52,12 @@
                 "info" : "宣州区 敬亭山",
                 "startTime" : [2024,3,20,13,0],
                 "endTime" : [2024,3,25,18,0]
+                },{
+                "title" : "CET 报名",
+                "time" : "03-22 10:00 ~ 03-29 17:00",
+                "info" : "https://passport.neea.edu.cn/",
+                "startTime" : [2024,3,22,10,0],
+                "endTime" : [2024,3,29,17,0]
                 }
     ]
 },
@@ -62,7 +68,7 @@
         "celebration" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "03-18 20:03 更新",
+    "TimeStamp" : "03-18 16:07 更新",
     "Notifications" : [
             {
                 "title" : "功能通知",
