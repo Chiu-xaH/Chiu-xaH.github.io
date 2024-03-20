@@ -48,10 +48,10 @@
                 "endTime" : [2024,3,15,21,45]
                 },{
                 "title" : "地科 实习",
-                "time" : "03-20 13:00",
-                "info" : "宣州区 敬亭山",
-                "startTime" : [2024,3,20,13,0],
-                "endTime" : [2024,3,20,18,0]
+                "time" : "03-22",
+                "info" : "宣州区 龙泉洞",
+                "startTime" : [2024,3,22,13,0],
+                "endTime" : [2024,3,22,18,0]
                 },{
                 "title" : "CET 报名",
                 "time" : "03-22 10:00 ~ 03-29 17:00",
@@ -80,7 +80,7 @@
         "celebration" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "03-19 23:32 更新",
+    "TimeStamp" : "03-20 16:18 更新",
     "Notifications" : [
             {
                 "title" : "功能通知",
