@@ -74,13 +74,13 @@
     ]
 },
     "SettingsInfo" : {
-        "version" : "4.3.1.2",
-        "title" : "最新版本 4.3.1.2",
-        "info"  : "聚焦有的机型崩溃问题已经解决了,可以升级\n最近有些忙,估计清明之后才会更新",
+        "version" : "4.3.1.3",
+        "title" : "最新版本 4.3.1.3",
+        "info"  : "最近有些心不在焉,把一些资源文件放错目录了,导致有的机型崩溃,新版本修了",
         "celebration" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "03-20 22:58 更新",
+    "TimeStamp" : "03-10 12:42 更新",
     "Notifications" : [
             {
                 "title" : "功能通知",
