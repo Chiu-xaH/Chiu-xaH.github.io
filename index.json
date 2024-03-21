@@ -42,7 +42,7 @@
         "Schedule" : [
             {
                 "title" : "上交地科报告",
-                "time" : "03-19 14:00",
+                "time" : "03-26 14:00",
                 "info" : "实习报告 野生记录薄 标本",
                 "startTime" : [2024,3,26,14,0],
                 "endTime" : [2024,3,26,14,0]
@@ -92,7 +92,7 @@
         "celebration" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "03-21 21:13 更新",
+    "TimeStamp" : "03-21 22:19 更新",
     "Notifications" : [
             {
                 "title" : "功能通知",
