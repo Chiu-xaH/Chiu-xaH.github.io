@@ -2,9 +2,9 @@
     "Lessons" : {
         "MyList" : [
             {
-                "title" : "慕课 开放",
+                "title" : "慕课",
                 "time" : "03-21 8:00 ~ 04-17 18:00",
-                "info" : "超星尔雅 hfgydx.fy.chaoxing.com",
+                "info" : "学习通",
                 "startTime" : [2024,3,21,8,0],
                 "endTime" : [2024,4,17,18,0]
                 },{
@@ -80,8 +80,8 @@
                 "title" : "数学 测试",
                 "time" : "03-22 20:00 ~ 03-22 21:30",
                 "info" : "长江雨课堂 十道 选择/判断",
-                "startTime" : [2024,3,22,20,0],
-                "endTime" : [2024,3,22,21,30]
+                "startTime" : [2024,3,21,20,0],
+                "endTime" : [2024,3,21,21,30]
                 }
     ]
 },
@@ -92,7 +92,7 @@
         "celebration" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "03-21 22:19 更新",
+    "TimeStamp" : "03-22 20:17 更新",
     "Notifications" : [
             {
                 "title" : "功能通知",
