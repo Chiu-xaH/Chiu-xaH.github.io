@@ -87,6 +87,13 @@
     },
      "semesterId" : "254",
     "TimeStamp" : "03-25 17:34 更新",
+    "Labs" : [
+        {
+            "title" : "C语言刷题库",
+            "info" : "10.111.100.211/train",
+            "type" : "STARTURI"
+        }
+    ]
     "Notifications" : [
             {
                 "title" : "功能通知",
