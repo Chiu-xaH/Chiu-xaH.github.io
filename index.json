@@ -92,6 +92,10 @@
             "title" : "C语言刷题库",
             "info" : "http://10.111.100.211/train",
             "type" : "STARTURI"
+        },{
+            "title" : "CET 报名",
+            "info" : "https://passport.neea.edu.cn",
+            "type" : "STARTURI"
         }
     ],
     "Notifications" : [
