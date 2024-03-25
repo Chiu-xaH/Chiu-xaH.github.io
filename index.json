@@ -90,7 +90,7 @@
     "Labs" : [
         {
             "title" : "C语言刷题库",
-            "info" : "10.111.100.211/train",
+            "info" : "http://10.111.100.211/train",
             "type" : "STARTURI"
         }
     ],
