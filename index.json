@@ -59,12 +59,6 @@
                 "startTime" : [2024,3,30,21,30],
                 "endTime" : [2024,3,30,21,45]
                 },{
-                "title" : "CET 报名",
-                "time" : "03-22 10:00 ~ 03-29 17:00",
-                "info" : "https://passport.neea.edu.cn/",
-                "startTime" : [2024,3,22,10,0],
-                "endTime" : [2024,3,29,17,0]
-                },{
                 "title" : "物理 演示实验课",
                 "time" : "04-18 第一节",
                 "info" : "综合实验楼2号 515",
@@ -86,15 +80,11 @@
         "celebration" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "03-28 20:54 更新",
+    "TimeStamp" : "03-29 17:03 更新",
     "Labs" : [
         {
             "title" : "C语言刷题库",
             "info" : "http://10.111.100.211/train",
-            "type" : "STARTURI"
-        },{
-            "title" : "CET 报名",
-            "info" : "https://passport.neea.edu.cn",
             "type" : "STARTURI"
         }
     ],
