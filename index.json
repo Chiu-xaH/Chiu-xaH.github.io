@@ -56,11 +56,15 @@
         "celebration" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "04-08 10:55 更新",
+    "TimeStamp" : "04-08 12:38 更新",
     "Labs" : [
         {
-            "title" : "C语言刷题库",
+            "title" : "C语言刷题库 (接入校园网)",
             "info" : "http://10.111.100.211/train",
+            "type" : "STARTURI"
+        },{
+            "title" : "高等数学B下 教材习题答案",
+            "info" : "https://urc.hep.com.cn/app/preview?previewId=1776889838031650818&flag=false",
             "type" : "STARTURI"
         }
     ],
