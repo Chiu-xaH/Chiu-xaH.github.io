@@ -51,7 +51,7 @@
 },
     "SettingsInfo" : {
         "version" : "本接口在本版本后废弃 推荐升级",
-        "title" : "假期结束 期中即将来临",
+        "title" : "欢迎使用",
         "info"  : "最新版本优化了聚焦逻辑 网课截至当天会显示为重要事项",
         "celebration" : false
     },
