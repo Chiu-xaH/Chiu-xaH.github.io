@@ -69,20 +69,19 @@
             "info" : "http://10.111.100.211/train",
             "type" : "STARTURI"
         },{
-            "title" : "高等数学B下 教材习题答案",
-            "info" : "https://urc.hep.com.cn/app/preview?previewId=1776889838031650818&flag=false",
+            "title" : "跑步鸡-是真爱粉就来玩",
+            "info" : "http://jilehe.125ks.cn/pbj/",
+            "type" : "STARTURI"
+        },{
+            "title" : "FTP服务器",
+            "info" : "ftp://10.111.100.207/",
+            "type" : "STARTURI"
+        },{
+            "title" : "跑步鸡-是真爱粉就来玩",
+            "info" : "http://jilehe.125ks.cn/pbj/",
             "type" : "STARTURI"
         }
     ],
     "Notifications" : [
-            {
-                "title" : "功能通知",
-                "info" : "云运动由于对方升级更改了接口逻辑，目前暂时不可用",
-                "remark"  : "2024-02-26"
-            },{
-                "title" : "关于本学期慕课开课的通知",
-                "info" : "在课程开放时间内，已选课同学登录学习通。在线课程考核方式及占比分别为：讨论20%、随堂测验25%、期末考试55%\n期末考试卷面成绩低于45分（不含45分），即认定该课程不及格，总评成绩直接按考试卷面成绩计入。在线课程不组织补考，学生期末考试缺考或卷面成绩为零，总评成绩直接记为未考",
-                "remark"  : "03-21 8:00 ~ 04-17 18:00"
-            }
     ]
 }
