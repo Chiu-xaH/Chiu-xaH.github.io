@@ -68,16 +68,16 @@
             "title" : "C语言刷题库 (接入校园网)",
             "info" : "http://10.111.100.211/train",
             "type" : "STARTURI"
-        },{
-            "title" : "跑步鸡-是真爱粉就来玩",
-            "info" : "http://jilehe.125ks.cn/pbj/",
+        },,{
+            "title" : "高等数学B下-教材习题答案",
+            "info" : "https://urc.hep.com.cn/app/preview?previewId=1776889838031650818&flag=false",
             "type" : "STARTURI"
         },{
             "title" : "FTP服务器",
             "info" : "ftp://10.111.100.207/",
             "type" : "STARTURI"
         },{
-            "title" : "跑步鸡-是真爱粉就来玩",
+            "title" : "跑步鸡-是真爱粉就来玩 (第三方开发 与本APP无关)",
             "info" : "http://jilehe.125ks.cn/pbj/",
             "type" : "STARTURI"
         }
