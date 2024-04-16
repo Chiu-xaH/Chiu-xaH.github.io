@@ -68,7 +68,7 @@
             "title" : "C语言刷题库 (接入校园网)",
             "info" : "http://10.111.100.211/train",
             "type" : "STARTURI"
-        },,{
+        },{
             "title" : "高等数学B下-教材习题答案",
             "info" : "https://urc.hep.com.cn/app/preview?previewId=1776889838031650818&flag=false",
             "type" : "STARTURI"
