@@ -2,18 +2,6 @@
     "Lessons" : {
         "MyList" : [
             {
-                "title" : "选修慕课",
-                "time" : "03-21 8:00 ~ 04-17 18:00",
-                "info" : "超星学习通",
-                "startTime" : [2024,3,21,8,0],
-                "endTime" : [2024,4,17,18,0]
-                },{
-                "title" : "视听说 2 Unit 2",
-                "time" : "04-14 截止",
-                "info" : "U校园",
-                "startTime" : [2024,4,7,0,0],
-                "endTime" : [2024,4,14,23,59]
-            },{
                 "title" : "视听说 2 Unit 3",
                 "time" : "04-28 截止",
                 "info" : "U校园",
@@ -62,7 +50,7 @@
         "celebration" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "04-16 17:36 更新",
+    "TimeStamp" : "04-17 19:03 更新",
     "Labs" : [
         {
             "title" : "C语言刷题库 (接入校园网)",
