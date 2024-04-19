@@ -27,7 +27,7 @@
                 "endTime" : [2024,5,10,22,0]
                 },{
                 "title" : "第九章 互评",
-                "time" : "04-06 23:59 截止",
+                "time" : "05-10 22:30 ~ 05-24 22:00",
                 "info" : "中国大学MOOC",
                 "startTime" : [2024,5,10,22,30],
                 "endTime" : [2024,5,24,22,0]
@@ -56,7 +56,7 @@
         "celebration" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "04-18 19:51 更新",
+    "TimeStamp" : "04-19 18:35 更新",
     "Labs" : [
         {
             "title" : "C语言刷题库 (接入校园网)",
@@ -67,11 +67,15 @@
             "info" : "https://urc.hep.com.cn/app/preview?previewId=1776889838031650818&flag=false",
             "type" : "STARTURI"
         },{
+            "title" : "线性代数-教材习题答案",
+            "info" : "https://abooks.hep.com.cn/h5/resource/detail?resourceId=P3USWY7Z5&projectId=FK6Y2EHFA",
+            "type" : "STARTURI"
+        },{
             "title" : "FTP服务器",
             "info" : "ftp://10.111.100.207/",
             "type" : "STARTURI"
         },{
-            "title" : "跑步鸡-是真爱粉就来玩\n(第三方开发 与本APP无关)",
+            "title" : "跑步鸡\n(他人开发 与本APP无关)",
             "info" : "http://jilehe.125ks.cn/pbj/",
             "type" : "STARTURI"
         }
