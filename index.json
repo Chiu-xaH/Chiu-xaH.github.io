@@ -31,7 +31,13 @@
                 "info" : "中国大学MOOC",
                 "startTime" : [2024,5,10,22,30],
                 "endTime" : [2024,5,24,22,0]
-                }
+                },{
+                "title" : "视听说 2 Unit 4",
+                "time" : "05-12 截止",
+                "info" : "U校园",
+                "startTime" : [2024,4,14,0,0],
+                "endTime" : [2024,5,12,23,59]
+            }
         ],
         "Schedule" : [
            {
@@ -56,7 +62,7 @@
         "celebration" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "04-19 18:35 更新",
+    "TimeStamp" : "04-19 18:59 更新",
     "Labs" : [
         {
             "title" : "C语言刷题库 (接入校园网)",
