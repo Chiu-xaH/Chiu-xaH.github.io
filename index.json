@@ -41,18 +41,6 @@
         ],
         "Schedule" : [
             {
-                "title" : "上机",
-                "time" : "04-28 18:00 周日",
-                "info" : "调课",
-                "startTime" : [2024,4,28,18,0],
-                "endTime" : [2024,4,28,19,0]
-                },{
-                "title" : "调休安排",
-                "time" : "04-28 第9周 周日",
-                "info" : "上第10周周四的课程",
-                "startTime" : [2024,4,27,16,0],
-                "endTime" : [2024,4,28,21,30]
-                },{
                 "title" : "调休安排",
                 "time" : "05-11 第11周 周六",
                 "info" : "上第10周周五的课程",
@@ -64,8 +52,8 @@
     "SettingsInfo" : {
         "version" : "本接口在本版本后废弃 推荐升级",
         "title" : "盼望五一假期中",
-        "info"  : "忙碌的四月终于要过去了,准备假期进行一次大更新",
-        "celebration" : false
+        "info"  : "假期快乐",
+        "celebration" : true
     },
      "semesterId" : "254",
     "TimeStamp" : "04-26 16:48 更新",
