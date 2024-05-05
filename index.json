@@ -2,12 +2,6 @@
     "Lessons" : {
         "MyList" : [
             {
-                "title" : "视听说 2 Unit 3",
-                "time" : "04-28 截止",
-                "info" : "U校园",
-                "startTime" : [2024,4,14,0,0],
-                "endTime" : [2024,4,28,23,59]
-            },{
                 "title" : "英语测试 2",
                 "time" : "04-28 09:00 截止",
                 "info" : "长江雨课堂",
@@ -51,12 +45,12 @@
 },
     "SettingsInfo" : {
         "version" : "本接口在本版本后废弃 推荐升级",
-        "title" : "盼望五一假期中",
-        "info"  : "假期快乐",
+        "title" : "假期结束",
+        "info"  : "盼望下一个假期中",
         "celebration" : true
     },
      "semesterId" : "254",
-    "TimeStamp" : "04-26 16:48 更新",
+    "TimeStamp" : "05-05 14:46 更新",
     "Labs" : [
         {
             "title" : "C语言刷题库 (接入校园网)",
