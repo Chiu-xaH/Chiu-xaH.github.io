@@ -45,12 +45,12 @@
 },
     "SettingsInfo" : {
         "version" : "本接口在本版本后废弃 推荐升级",
-        "title" : "假期结束",
-        "info"  : "盼望下一个假期中",
+        "title" : "哈哈哈",
+        "info"  : "又要放假了",
         "celebration" : true
     },
      "semesterId" : "254",
-    "TimeStamp" : "05-05 21:18 更新",
+    "TimeStamp" : "05-09 17:34 更新",
     "Labs" : [
         {
             "title" : "C语言刷题库 (接入校园网)",
@@ -58,11 +58,11 @@
             "type" : "STARTURI"
         },{
             "title" : "高等数学B下-教材习题答案",
-            "info" : "https://urc.hep.com.cn/app/preview?previewId=1776889838031650818&flag=false",
+            "info" : "https://urc.hep.com.cn/app/preview?previewId=1788502398160838658&flag=false&isShowDocMap=false",
             "type" : "STARTURI"
         },{
             "title" : "线性代数-教材习题答案",
-            "info" : "https://urc.hep.com.cn/app/preview?previewId=1781270488429707265&flag=false",
+            "info" : "https://urc.hep.com.cn/app/preview?previewId=1788501744554057729&flag=false&isShowDocMap=false",
             "type" : "STARTURI"
         },{
             "title" : "FTP服务器",
