@@ -57,8 +57,8 @@
 },
     "SettingsInfo" : {
         "version" : "本接口在本版本后废弃 推荐升级",
-        "title" : "开发者接口",
-        "info"  : "开发者接口",
+        "title" : "公告",
+        "info"  : "作为开发者接口的我，要退休了🫤新的版本中我会被隐藏，等某日我会再次出现",
         "celebration" : false
         "show" : false
     },
