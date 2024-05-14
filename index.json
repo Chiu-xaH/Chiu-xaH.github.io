@@ -60,6 +60,7 @@
         "title" : "开发者接口",
         "info"  : "开发者接口",
         "celebration" : false
+        "show" : false
     },
      "semesterId" : "254",
     "TimeStamp" : "05-14 10:56 更新",
