@@ -104,7 +104,7 @@
             "info" : "http://jilehe.125ks.cn/pbj/",
             "type" : "STARTURI"
         },{
-            "title" : "FTP服务器",
+            "title" : "FTP服务器\nftp://10.111.100.207/",
             "info" : "ftp://10.111.100.207/",
             "type" : "STARTURI"
         }
