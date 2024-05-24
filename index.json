@@ -36,18 +36,6 @@
         "Schedule" : [
             {
                 "title" : "古生物学 实验课",
-                "time" : "05-23 16:00",
-                "info" : "电子电气楼 308",
-                "startTime" : [2024,5,23,16,0],
-                "endTime" : [2024,5,23,17,50]
-                },{
-                "title" : "线性代数 结课考试",
-                "time" : "05-23 18:30 ~ 20:30",
-                "info" : "敬亭学堂 215",
-                "startTime" : [2024,5,23,18,30],
-                "endTime" : [2024,5,23,20,30]
-                },{
-                "title" : "古生物学 实验课",
                 "time" : "05-24 16:00",
                 "info" : "电子电气楼 308",
                 "startTime" : [2024,5,24,16,0],
@@ -87,7 +75,7 @@
         "show" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "05-23 00:42 更新",
+    "TimeStamp" : "05-24 10:04 更新",
     "Labs" : [
         {
             "title" : "C语言刷题库 (接入校园网)",
@@ -96,10 +84,6 @@
         },{
             "title" : "高等数学B下-教材习题答案",
             "info" : "https://urc.hep.com.cn/app/preview?previewId=1788502398160838658&flag=false&isShowDocMap=false",
-            "type" : "STARTURI"
-        },{
-            "title" : "线性代数-教材习题答案",
-            "info" : "https://urc.hep.com.cn/app/preview?previewId=1788501744554057729&flag=false&isShowDocMap=false",
             "type" : "STARTURI"
         },{
             "title" : "视听说第二册 答案",
