@@ -95,6 +95,10 @@
             "title" : "FTP服务器\nftp://10.111.100.207/",
             "info" : "ftp://10.111.100.207/",
             "type" : "STARTURI"
+        },{
+            "title" : "菜鸟教程-C语言",
+            "info" : "https://www.runoob.com/cprogramming/c-tutorial.html",
+            "type" : "STARTURI"
         }
     ],
     "Notifications" : [
