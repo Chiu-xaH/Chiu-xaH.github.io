@@ -65,6 +65,12 @@
                 "startTime" : [2024,6,2,16,0],
                 "endTime" : [2024,6,2,17,30]
                 },{
+                "title" : "讲座",
+                "time" : "06-05 14:30",
+                "info" : "行政楼 102",
+                "startTime" : [2024,6,5,14,30],
+                "endTime" : [2024,6,5,16,00]
+                },{
                 "title" : "古生物学 实验课",
                 "time" : "06-06 16:00",
                 "info" : "电子电气楼 308",
@@ -81,7 +87,7 @@
         "show" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "05-28 17:28 更新",
+    "TimeStamp" : "05-30 18:13 更新",
     "Labs" : [
         {
             "title" : "C语言刷题库 (接入校园网)",
@@ -106,10 +112,6 @@
         },{
             "title" : "FTP服务器\nftp://10.111.100.207/",
             "info" : "ftp://10.111.100.207/",
-            "type" : "STARTURI"
-        },{
-            "title" : "菜鸟教程-C语言",
-            "info" : "https://www.runoob.com/cprogramming/c-tutorial.html",
             "type" : "STARTURI"
         }
     ],
