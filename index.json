@@ -47,12 +47,6 @@
         ],
         "Schedule" : [
            {
-                "title" : "C语言 结课考试",
-                "time" : "06-02 16:00 ~ 17:30",
-                "info" : "第六机房",
-                "startTime" : [2024,6,2,16,0],
-                "endTime" : [2024,6,2,17,30]
-                },{
                 "title" : "讲座",
                 "time" : "06-05 14:30",
                 "info" : "行政楼 102",
@@ -75,13 +69,9 @@
         "show" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "05-31 23:56 更新",
+    "TimeStamp" : "06-02 20:25 更新",
     "Labs" : [
         {
-            "title" : "C语言刷题库 (接入校园网)",
-            "info" : "http://10.111.100.211/train",
-            "type" : "STARTURI"
-        },{
             "title" : "高等数学B下-教材习题答案",
             "info" : "https://urc.hep.com.cn/app/preview?previewId=1796533081042448385&flag=false&isShowDocMap=false",
             "type" : "STARTURI"
@@ -96,10 +86,6 @@
         },{
             "title" : "胸大鸡快跑\n(他人开发 与本APP无关)",
             "info" : "https://chiu-xah.github.io/xiongdajiKuaipao.html",
-            "type" : "STARTURI"
-        },{
-            "title" : "FTP服务器\nftp://10.111.100.207/",
-            "info" : "ftp://10.111.100.207/",
             "type" : "STARTURI"
         }
     ],
