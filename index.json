@@ -59,6 +59,12 @@
                 "startTime" : [2024,6,6,16,0],
                 "endTime" : [2024,6,6,17,50]
                 },{
+                "title" : "CET 考试",
+                "time" : "CET4 8:30 ~ 11:20\nCET6 14:30 ~ 17:25",
+                "info" : "06-15",
+                "startTime" : [2024,6,15,8,30],
+                "endTime" : [2024,6,15,14,30]
+                },{
                 "title" : "大学物理 结课考试",
                 "time" : "预计 06-28",
                 "info" : "等待安排",
@@ -75,9 +81,13 @@
         "show" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "06-05 21:38 更新",
+    "TimeStamp" : "06-06 10:43 更新",
     "Labs" : [
         {
+            "title" : "CET",
+            "info" : "http://cet-bm.neea.edu.cn",
+            "type" : "STARTURI"
+        },{
             "title" : "高等数学B下-教材习题答案",
             "info" : "https://urc.hep.com.cn/app/preview?previewId=1796533081042448385&flag=false&isShowDocMap=false",
             "type" : "STARTURI"
@@ -89,10 +99,6 @@
             "title" : "跑步鸡\n(他人开发 与本APP无关)",
             "info" : "http://jilehe.125ks.cn/pbj/",
             "type" : "STARTURI"
-        },{
-            "title" : "胸大鸡快跑\n(他人开发 与本APP无关)",
-            "info" : "https://chiu-xah.github.io/xiongdajiKuaipao.html",
-            "type" : "STARTURI"
         }
     ],
     "Notifications" : [
@@ -100,6 +106,10 @@
             "title" : "中国大学MOOC 高等数学",
             "info" : "线上期末测试将针对A,B分别出两套试卷,只需要参与对应期末试卷测试;\n高数A的学生，从第八章空间解析几何到第十三章无穷级数中的单元测试中的成绩均计入总成绩；\n高数B的学生，第七章常微分方程、第九章多元函数微分学、第十三章无穷级数的单元测试成绩均计入总成绩.",
             "remark" : "本学期高数A和B课时相差较大，特作如下规定"
+        },{
+            "title" : "CET考试",
+            "info" : "可登录CET官网（已载入查询中心-实验室）打印准考证，准备四六级考试",
+            "remark" : "06-07 09:00 起"
         }
     ]
 }
