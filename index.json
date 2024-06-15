@@ -72,10 +72,6 @@
     "TimeStamp" : "06-15 16:09 更新",
     "Labs" : [
         {
-            "title" : "CET",
-            "info" : "http://cet-bm.neea.edu.cn",
-            "type" : "STARTURI"
-        },{
             "title" : "高等数学B下-教材习题答案",
             "info" : "https://urc.hep.com.cn/app/preview?previewId=1796533081042448385&flag=false&isShowDocMap=false",
             "type" : "STARTURI"
@@ -94,10 +90,6 @@
             "title" : "中国大学MOOC 高等数学",
             "info" : "线上期末测试将针对A,B分别出两套试卷,只需要参与对应期末试卷测试;\n高数A的学生，从第八章空间解析几何到第十三章无穷级数中的单元测试中的成绩均计入总成绩；\n高数B的学生，第七章常微分方程、第九章多元函数微分学、第十三章无穷级数的单元测试成绩均计入总成绩.",
             "remark" : "本学期高数A和B课时相差较大，特作如下规定"
-        },{
-            "title" : "CET考试",
-            "info" : "可登录CET官网（已载入查询中心-实验室）打印准考证，准备四六级考试",
-            "remark" : "06-07 09:00 起"
         },{
             "title" : "接口异常通告",
             "info" : "智慧社区的考试接口异常，数据无法更新，如需获取考试信息请登录一次刷新",
