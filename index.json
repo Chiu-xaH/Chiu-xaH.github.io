@@ -53,12 +53,6 @@
         ],
         "Schedule" : [
            {
-                "title" : "CET 考试",
-                "time" : "CET4 8:30 ~ 11:20\nCET6 14:30 ~ 17:25",
-                "info" : "06-15",
-                "startTime" : [2024,6,15,8,30],
-                "endTime" : [2024,6,15,14,30]
-                },{
                 "title" : "高等数学 结课考试",
                 "time" : "06-26晚",
                 "info" : "等待安排",
@@ -75,7 +69,7 @@
         "show" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "06-13 13:02 更新",
+    "TimeStamp" : "06-15 16:09 更新",
     "Labs" : [
         {
             "title" : "CET",
