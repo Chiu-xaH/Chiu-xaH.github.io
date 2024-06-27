@@ -102,5 +102,6 @@
     ],
     "SchoolCalendar" : "https://sm.ms/image/QcbEnVA1LYv3NGX",
     "Next" : false,
-    "API" : "http://47.113.187.217:890/"
+    "API" : "http://47.113.187.217:890/",
+    "useNewAPI" : true
 }
