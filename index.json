@@ -72,14 +72,6 @@
     "TimeStamp" : "06-23 17:06 更新",
     "Labs" : [
         {
-            "title" : "高等数学B下-教材习题答案",
-            "info" : "https://urc.hep.com.cn/app/preview?previewId=1796533081042448385&flag=false&isShowDocMap=false",
-            "type" : "STARTURI"
-        },{
-            "title" : "视听说第二册 答案",
-            "info" : "https://mp.weixin.qq.com/s/9m51Sf4lw0irsF_EmT5tlg",
-            "type" : "STARTURI"
-        },{
             "title" : "马院题库",
             "info" : "https://sizhengke.capstone.fun/h5/",
             "type" : "STARTURI"
