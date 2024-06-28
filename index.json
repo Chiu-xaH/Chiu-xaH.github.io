@@ -80,25 +80,17 @@
             "info" : "https://mp.weixin.qq.com/s/9m51Sf4lw0irsF_EmT5tlg",
             "type" : "STARTURI"
         },{
-            "title" : "跑步鸡\n(他人开发 与本APP无关)",
+            "title" : "马院题库",
+            "info" : "https://sizhengke.capstone.fun/h5/",
+            "type" : "STARTURI"
+        },{
+            "title" : "跑步鸡",
             "info" : "http://jilehe.125ks.cn/pbj/",
             "type" : "STARTURI"
         }
     ],
     "Notifications" : [
-        {
-            "title" : "中国大学MOOC 高等数学",
-            "info" : "线上期末测试将针对A,B分别出两套试卷,只需要参与对应期末试卷测试;\n高数A的学生，从第八章空间解析几何到第十三章无穷级数中的单元测试中的成绩均计入总成绩；\n高数B的学生，第七章常微分方程、第九章多元函数微分学、第十三章无穷级数的单元测试成绩均计入总成绩.",
-            "remark" : "本学期高数A和B课时相差较大，特作如下规定"
-        },{
-            "title" : "暂停更新通知",
-            "info" : "新版本更新暂停至06-26",
-            "remark" : "06-26"
-        },{
-            "title" : "考试通知",
-            "info" : "目前所有考试安排已出，登录教务刷新即可看到",
-            "remark" : "06-21"
-        }
+       
     ],
     "SchoolCalendar" : "https://sm.ms/image/QcbEnVA1LYv3NGX",
     "Next" : false,
