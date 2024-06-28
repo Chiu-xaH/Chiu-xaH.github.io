@@ -2,24 +2,6 @@
     "Lessons" : {
         "MyList" : [
            {
-                "title" : "英语测试 5",
-                "time" : "06-05 21:36 ～ 06-23 09:00",
-                "info" : "长江雨课堂",
-                "startTime" : [2024,6,5,21,36],
-                "endTime" : [2024,6,23,9,0]
-            },{
-                "title" : "视听说 2 Unit 7",
-                "time" : "06-23 截止",
-                "info" : "U校园",
-                "startTime" : [2024,5,27,0,0],
-                "endTime" : [2024,6,23,23,59]
-            },{
-                "title" : "英语作文 3084825",
-                "time" : "06-28 23:59 截止",
-                "info" : "批改网",
-                "startTime" : [2024,5,14,0,0],
-                "endTime" : [2024,6,28,23,59]
-            },{
                 "title" : "视听说 2 Unit 8",
                 "time" : "06-30 截止",
                 "info" : "U校园",
@@ -57,9 +39,7 @@
                 "endTime" : [2024,7,6,23,59]
             }
         ],
-        "Schedule" : [
-            
-    ]
+        "Schedule" : []
 },
     "SettingsInfo" : {
         "version" : "本接口在本版本后废弃 推荐升级",
@@ -69,7 +49,7 @@
         "show" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "06-23 17:06 更新",
+    "TimeStamp" : "06-29 00:57 更新",
     "Labs" : [
         {
             "title" : "马院题库",
