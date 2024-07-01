@@ -1,19 +1,7 @@
 {
     "Lessons" : {
         "MyList" : [
-           {
-                "title" : "视听说 2 Unit 8",
-                "time" : "06-30 截止",
-                "info" : "U校园",
-                "startTime" : [2024,6,24,0,0],
-                "endTime" : [2024,6,30,23,59]
-            },{
-                "title" : "英语作文 3064279",
-                "time" : "06-30 23:59 截止",
-                "info" : "批改网",
-                "startTime" : [2024,5,14,0,0],
-                "endTime" : [2024,6,30,23,59]
-            },{
+          {
                 "title" : "高数B 第十三章 测试",
                 "time" : "07-05 22:00 截止",
                 "info" : "中国大学MOOC",
@@ -49,7 +37,7 @@
         "show" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "06-29 00:57 更新",
+    "TimeStamp" : "07-01 13:15 更新",
     "Labs" : [
         {
             "title" : "马院题库",
@@ -58,7 +46,11 @@
         }
     ],
     "Notifications" : [
-       
+       {
+            "title" : "下学期课表开放通知",
+            "info" : "4.6.2及以上版本,在课程表页面右上角新增按钮可查看下学期课程",
+            "remark" : "2024-07-01"
+        }
     ],
     "SchoolCalendar" : "https://sm.ms/image/QcbEnVA1LYv3NGX",
     "Next" : true,
