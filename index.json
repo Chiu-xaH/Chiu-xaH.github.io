@@ -55,7 +55,7 @@
         "show" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "07-04 19:59 更新",
+    "TimeStamp" : "07-04 20:00 更新",
     "Labs" : [
         {
             "title" : "马院题库",
@@ -81,5 +81,5 @@
     "SchoolCalendar" : "https://sm.ms/image/QcbEnVA1LYv3NGX",
     "Next" : true,
     "API" : "http://47.113.187.217:890/",
-    "useNewAPI" : true
+    "useNewAPI" : false
 }
