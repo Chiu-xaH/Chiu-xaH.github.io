@@ -76,6 +76,10 @@
             "title" : "即将选课通知",
             "info" : "详情见：查询中心 实验室 选课通知",
             "remark" : "2024-07-08"
+        },{
+            "title" : "功能变更通知",
+            "info" : "由于当时测试不严谨，新的云端接口有问题，暂时已通过云控切换回老接口，修复时间推迟",
+            "remark" : "2024-07-04"
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/QcbEnVA1LYv3NGX",
