@@ -6,13 +6,15 @@
                 "time" : "07-05 22:00 截止",
                 "info" : "中国大学MOOC",
                 "startTime" : [2024,5,28,0,0],
-                "endTime" : [2024,7,5,22,0]
+                "endTime" : [2024,7,5,22,0],
+                "showPublic" : true
             },{
                 "title" : "英语作文 3087060",
                 "time" : "07-06 23:59 截止",
                 "info" : "批改网",
                 "startTime" : [2024,5,14,0,0],
-                "endTime" : [2024,7,6,23,59]
+                "endTime" : [2024,7,6,23,59],
+                "showPublic" : false
             }
         ],
         "Schedule" : [
@@ -21,19 +23,22 @@
                 "time" : "07-08 08:30 ~ 07-11 17:00",
                 "info" : "随机筛选 机会均等",
                 "startTime" : [2024,7,8,8,30],
-                "endTime" : [2024,7,11,17,0]
+                "endTime" : [2024,7,11,17,0],
+                "showPublic" : true
             },{
                 "title" : "第二轮选课",
                 "time" : "09-12 08:30 ~ 09-14 17:00",
                 "info" : "补选 先到先得",
                 "startTime" : [2024,9,12,8,30],
-                "endTime" : [2024,9,14,17,0]
+                "endTime" : [2024,9,14,17,0],
+                "showPublic" : true
             },{
                 "title" : "第三轮选课",
                 "time" : "09-20 08:30 ~ 09-22 17:00",
                 "info" : "个人调整",
                 "startTime" : [2024,9,20,8,30],
-                "endTime" : [2024,9,22,17,0]
+                "endTime" : [2024,9,22,17,0],
+                "showPublic" : true
             }
         ]
 },
