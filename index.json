@@ -49,7 +49,7 @@
         "celebration" : false,
         "show" : false
     },
-     "semesterId" : "254",
+     "semesterId" : "274",
     "TimeStamp" : "07-05 10:15 更新",
     "Labs" : [
         {
@@ -78,7 +78,7 @@
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/QcbEnVA1LYv3NGX",
-    "Next" : true,
+    "Next" : false,
     "API" : "http://47.113.187.217:890/",
     "useNewAPI" : false
 }
