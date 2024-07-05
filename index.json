@@ -2,19 +2,7 @@
     "Lessons" : {
         "MyList" : [
           {
-                "title" : "高数B 第十三章 测试",
-                "time" : "07-05 22:00 截止",
-                "info" : "中国大学MOOC",
-                "startTime" : [2024,5,28,0,0],
-                "endTime" : [2024,7,5,22,0]
-            },{
-                "title" : "高数B 第十三章 互评",
-                "time" : "06-21 22:00 ~ 07-05 22:00",
-                "info" : "中国大学MOOC",
-                "startTime" : [2024,6,21,22,0],
-                "endTime" : [2024,7,5,22,0]
-            },{
-                "title" : "高数B 期末测试",
+                "title" : "高数B 结束",
                 "time" : "07-05 22:00 截止",
                 "info" : "中国大学MOOC",
                 "startTime" : [2024,5,28,0,0],
@@ -57,7 +45,7 @@
         "show" : false
     },
      "semesterId" : "254",
-    "TimeStamp" : "07-04 20:09 更新",
+    "TimeStamp" : "07-05 10:15 更新",
     "Labs" : [
         {
             "title" : "马院题库",
