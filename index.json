@@ -31,12 +31,12 @@
     "SettingsInfo" : {
         "version" : "请更新",
         "title" : "嗨 注意高温 🤒",
-        "info"  : "距离放假只有 3 天",
+        "info"  : "距离放假只有 2 天",
         "celebration" : false,
         "show" : true
     },
      "semesterId" : "254",
-    "TimeStamp" : "07-08 21:17 更新",
+    "TimeStamp" : "07-09 14:05 更新",
     "Labs" : [
         {
             "title" : "马院题库",
@@ -53,10 +53,6 @@
             "title" : "接口变更通知",
             "info" : "聚焦接口由于后端服务器整改工作，4.6.3 ~ 4.6.4.2版本用户，为保证信息接受的及时性，需关闭开关：选项–网络相关–云端交互，或更新至最新版本4.7可默认关闭开关",
             "remark" : "2024-07-06"
-        },{
-            "title" : "新功能通知",
-            "info" : "4.8已支持选课(1.0)",
-            "remark" : "2024-07-08"
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/QcbEnVA1LYv3NGX",
