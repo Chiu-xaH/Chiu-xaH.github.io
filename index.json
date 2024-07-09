@@ -30,8 +30,8 @@
 },
     "SettingsInfo" : {
         "version" : "请更新",
-        "title" : "嗨 注意高温 🤒",
-        "info"  : "距离放假只有 2 天",
+        "title" : "高温结束 🤗",
+        "info"  : "后天即将放假",
         "celebration" : false,
         "show" : true
     },
