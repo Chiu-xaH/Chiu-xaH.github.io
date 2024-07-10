@@ -30,13 +30,13 @@
 },
     "SettingsInfo" : {
         "version" : "请更新",
-        "title" : "好消息 🤗",
-        "info"  : "明天就要放假啰",
+        "title" : "恭祝放假 ",
+        "info"  : "这两天可以走了哦",
         "celebration" : true,
         "show" : true
     },
      "semesterId" : "254",
-    "TimeStamp" : "07-09 23:05 更新",
+    "TimeStamp" : "07-10 19:44 更新",
     "Labs" : [
         {
             "title" : "马院题库",
