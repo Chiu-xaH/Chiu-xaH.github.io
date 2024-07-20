@@ -18,6 +18,13 @@
                 "startTime" : [2024,9,20,8,30],
                 "endTime" : [2024,9,22,17,0],
                 "showPublic" : true
+            },{
+                "title" : "23级转专业申请",
+                "time" : "07-20 09:40 ~ 08-04 23:59",
+                "info" : "4.8.3及以上版本支持查看",
+                "startTime" : [2024,7,20,9,40],
+                "endTime" : [2024,8,4,23,59],
+                "showPublic" : true
             }
         ]
 },
@@ -29,7 +36,7 @@
         "show" : false
     },
      "semesterId" : "274",
-    "TimeStamp" : "07-12 04:58 更新",
+    "TimeStamp" : "07-20 15:32 更新",
     "Labs" : [
         {
             "title" : "马院题库",
@@ -39,6 +46,10 @@
             "title" : "选课通知",
             "info" : "http://xcjwb.hfut.edu.cn/99/1f/c714a39199/page.htm",
             "type" : "STARTURI"
+        },{
+            "title" : "转专业通知",
+            "info" : "http://xcjwb.hfut.edu.cn/99/8c/c714a39308/page.htm",
+            "type" : "STARTURI"
         }
     ],
     "Notifications" : [
@@ -46,6 +57,10 @@
             "title" : "接口变更通知",
             "info" : "聚焦接口由于后端服务器整改工作，4.6.3 ~ 4.6.4.2版本用户，为保证信息接受的及时性，需关闭开关：选项–网络相关–云端交互，或更新至最新版本4.7可默认关闭开关",
             "remark" : "2024-07-06"
+        },{
+            "title" : "服务器变更通知",
+            "info" : "租赁服务器07-25即将到期，如下功能将暂时不可用：反馈、用户统计数据",
+            "remark" : "2024-07-25"
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/QcbEnVA1LYv3NGX",
