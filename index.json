@@ -36,7 +36,7 @@
         "show" : false
     },
      "semesterId" : "274",
-    "TimeStamp" : "07-20 15:32 更新",
+    "TimeStamp" : "07-26 12:14 更新",
     "Labs" : [
         {
             "title" : "马院题库",
@@ -50,6 +50,10 @@
             "title" : "转专业通知",
             "info" : "http://xcjwb.hfut.edu.cn/99/8c/c714a39308/page.htm",
             "type" : "STARTURI"
+        },{
+            "title" : "CET成绩查询",
+            "info" : "https://cjcx.neea.edu.cn/xhtml1/folder/21033/653-1.htm",
+            "type" : "STARTURI"
         }
     ],
     "Notifications" : [
@@ -59,7 +63,7 @@
             "remark" : "2024-07-06"
         },{
             "title" : "服务器变更通知",
-            "info" : "租赁服务器即将到期，如下功能将暂时不可用：反馈、用户统计数据",
+            "info" : "租赁服务器到期，如下功能将暂时不可用：反馈、用户统计数据",
             "remark" : "2024-07-25"
         }
     ],
