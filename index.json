@@ -25,13 +25,6 @@
                 "startTime" : [2024,8,31,0,0],
                 "endTime" : [2024,9,6,0,0],
                 "showPublic" : false
-            },{
-                "title" : "CET 成绩查询",
-                "time" : "08-23 06:00 开始",
-                "info" : "国家政务服务平台",
-                "startTime" : [2024,8,23,6,0],
-                "endTime" : [2024,9,6,0,0],
-                "showPublic" : true
             }
         ]
 },
