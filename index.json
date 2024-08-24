@@ -50,10 +50,6 @@
             "title" : "转专业通知",
             "info" : "http://xcjwb.hfut.edu.cn/99/8c/c714a39308/page.htm",
             "type" : "STARTURI"
-        },{
-            "title" : "CET成绩查询",
-            "info" : "https://cjcx.neea.edu.cn/xhtml1/folder/21033/653-1.htm",
-            "type" : "STARTURI"
         }
     ],
     "Notifications" : [
