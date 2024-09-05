@@ -18,13 +18,6 @@
                 "startTime" : [2024,9,20,8,30],
                 "endTime" : [2024,9,22,17,0],
                 "showPublic" : true
-            },{
-                "title" : "地科实习",
-                "time" : "08-31 ～ 09-06",
-                "info" : "九江市庐山",
-                "startTime" : [2024,8,31,0,0],
-                "endTime" : [2024,9,6,0,0],
-                "showPublic" : false
             }
         ]
 },
@@ -36,7 +29,7 @@
         "show" : false
     },
      "semesterId" : "274",
-    "TimeStamp" : "暑假快乐",
+    "TimeStamp" : "09-05 13:50 更新",
     "Labs" : [
         {
             "title" : "马院题库",
