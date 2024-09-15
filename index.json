@@ -4,22 +4,7 @@
           
         ],
         "Schedule" : [
-           {
-                "title" : "调休安排",
-                "time" : "09-14 周六",
-                "info" : "上 第二周周一 课程",
-                "startTime" : [2024,9,14,0,0],
-                "endTime" : [2024,9,14,23,59],
-                "showPublic" : true
-            },
             {
-                "title" : "第二轮选课",
-                "time" : "09-12 08:30 ~ 09-14 17:00",
-                "info" : "补选 先到先得",
-                "startTime" : [2024,9,12,8,30],
-                "endTime" : [2024,9,14,17,0],
-                "showPublic" : true
-            },{
                 "title" : "第三轮选课",
                 "time" : "09-20 08:30 ~ 09-22 17:00",
                 "info" : "个人调整",
@@ -37,15 +22,11 @@
         "show" : true
     },
      "semesterId" : "274",
-    "TimeStamp" : "09-14 21:21 更新",
+    "TimeStamp" : "09-15 14:48 更新",
     "Labs" : [
         {
             "title" : "马院题库",
             "info" : "https://sizhengke.capstone.fun/h5/",
-            "type" : "STARTURI"
-        },{
-            "title" : "选课通知",
-            "info" : "http://xcjwb.hfut.edu.cn/99/1f/c714a39199/page.htm",
             "type" : "STARTURI"
         }
     ],
