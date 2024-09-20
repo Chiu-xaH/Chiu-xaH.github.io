@@ -11,6 +11,20 @@
                 "startTime" : [2024,9,20,8,30],
                 "endTime" : [2024,9,22,17,0],
                 "showPublic" : true
+            },{
+                "title" : "调休安排",
+                "time" : "09-29",
+                "info" : "上 第4周周五 课程",
+                "startTime" : [2024,9,29,0,0],
+                "endTime" : [2024,9,29,23,59],
+                "showPublic" : true
+            },{
+                "title" : "调休安排",
+                "time" : "10-12",
+                "info" : "上 第5周周一 课程",
+                "startTime" : [2024,10,12,0,0],
+                "endTime" : [2024,10,12,23,59],
+                "showPublic" : true
             }
         ]
 },
@@ -22,7 +36,7 @@
         "show" : true
     },
      "semesterId" : "274",
-    "TimeStamp" : "09-19 15:15 更新",
+    "TimeStamp" : "09-20 16:51 更新",
     "Labs" : [
         {
             "title" : "马院题库",
