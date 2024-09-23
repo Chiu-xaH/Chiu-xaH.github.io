@@ -18,6 +18,34 @@
                 "startTime" : [2024,10,12,0,0],
                 "endTime" : [2024,10,12,23,59],
                 "showPublic" : true
+            },{
+                "title" : "机器人足球仿真实验 上机",
+                "time" : "09-25 18:30 ~ 21:50",
+                "info" : "计算中心楼 405",
+                "startTime" : [2024,9,25,18,30],
+                "endTime" : [2024,9,25,21,50],
+                "showPublic" : false
+            },{
+                "title" : "机器人足球仿真实验 上机",
+                "time" : "10-14 18:30 ~ 21:50",
+                "info" : "计算中心楼 405",
+                "startTime" : [2024,10,14,18,30],
+                "endTime" : [2024,10,14,21,50],
+                "showPublic" : false
+            },{
+                "title" : "Python 上机",
+                "time" : "09-29 18:30 ~ 21:50",
+                "info" : "计算中心楼 第三机房",
+                "startTime" : [2024,9,29,18,30],
+                "endTime" : [2024,9,29,21,50],
+                "showPublic" : false
+            },{
+                "title" : "Python 上机",
+                "time" : "10-14 18:30 ~ 21:50",
+                "info" : "计算中心楼 408",
+                "startTime" : [2024,10,14,18,30],
+                "endTime" : [2024,10,14,21,50],
+                "showPublic" : false
             }
         ]
 },
