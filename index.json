@@ -1,7 +1,14 @@
 {
     "Lessons" : {
         "MyList" : [
-          
+          {
+                "title" : "英语视听说",
+                "time" : "09-21 ～ 03-21",
+                "info" : "U校园",
+                "startTime" : [2024,9,21,0,0],
+                "endTime" : [2025,3,21,23,59],
+                "showPublic" : true
+            }
         ],
         "Schedule" : [
             {
@@ -43,7 +50,7 @@
         "show" : true
     },
      "semesterId" : "274",
-    "TimeStamp" : "09-24 13:18 更新",
+    "TimeStamp" : "09-24 15:40 更新",
     "Labs" : [
         {
             "title" : "马院题库",
