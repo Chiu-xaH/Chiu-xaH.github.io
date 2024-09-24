@@ -32,20 +32,6 @@
                 "startTime" : [2024,10,14,18,30],
                 "endTime" : [2024,10,14,21,50],
                 "showPublic" : false
-            },{
-                "title" : "Python 上机",
-                "time" : "09-29 18:30 ~ 21:50",
-                "info" : "计算中心楼 第三机房",
-                "startTime" : [2024,9,29,18,30],
-                "endTime" : [2024,9,29,21,50],
-                "showPublic" : false
-            },{
-                "title" : "Python 上机",
-                "time" : "10-14 18:30 ~ 21:50",
-                "info" : "计算中心楼 408",
-                "startTime" : [2024,10,14,18,30],
-                "endTime" : [2024,10,14,21,50],
-                "showPublic" : false
             }
         ]
 },
@@ -57,7 +43,7 @@
         "show" : true
     },
      "semesterId" : "274",
-    "TimeStamp" : "09-23 16:43 更新",
+    "TimeStamp" : "09-24 09:01 更新",
     "Labs" : [
         {
             "title" : "马院题库",
