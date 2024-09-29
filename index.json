@@ -50,11 +50,16 @@
         "show" : true
     },
      "semesterId" : "274",
-    "TimeStamp" : "09-24 15:40 更新",
+    "TimeStamp" : "09-29 16:46 更新",
     "Labs" : [
         {
             "title" : "马院题库",
             "info" : "https://sizhengke.capstone.fun/h5/",
+            "type" : "STARTURI"
+        },
+        {
+            "title" : "大学物理实验 安排",
+            "info" : "https://sm.ms/image/8uXmRhO5GlPZz9D",
             "type" : "STARTURI"
         }
     ],
@@ -63,6 +68,11 @@
             "title" : "重要通知",
             "info" : "由于某些因素,4.9.7以上的版本无法正常更新,会跳转到404丢失链接,请前往:选项->维护关于->疑惑解答 修复->下载最新版本,造成的不便深表歉意,最新版本已修复此BUG",
             "remark" : "2024-09-13"
+        },
+         {
+            "title" : "大学物理实验(上) 综合实验楼二 具体安排",
+            "info" : "第2周 示波器的使用 407\n第3周 三线摆 314\n第3周 电子核质比 409\n第5周 分光计的使用 301\n第6周 电学设计 401\n第7周 电桥法测电阻 402\n第8周 导热系数 316",
+            "remark" : "实验楼二入口处张贴了告示,有需求的可前往 查询中心-网址导航-实验室 查看"
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/QcbEnVA1LYv3NGX",
