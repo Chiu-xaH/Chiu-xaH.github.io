@@ -11,27 +11,13 @@
             }
         ],
         "Schedule" : [
-            {
-                "title" : "调休安排",
-                "time" : "09-29",
-                "info" : "上 第4周周五 课程",
-                "startTime" : [2024,9,29,0,0],
-                "endTime" : [2024,9,29,23,59],
-                "showPublic" : true
-            },{
+           {
                 "title" : "调休安排",
                 "time" : "10-12",
                 "info" : "上 第5周周一 课程",
                 "startTime" : [2024,10,12,0,0],
                 "endTime" : [2024,10,12,23,59],
                 "showPublic" : true
-            },{
-                "title" : "机器人足球仿真 上机",
-                "time" : "09-25 18:30 ~ 21:50",
-                "info" : "计算中心楼 405",
-                "startTime" : [2024,9,25,18,30],
-                "endTime" : [2024,9,25,21,50],
-                "showPublic" : false
             },{
                 "title" : "机器人足球仿真 上机",
                 "time" : "10-14 18:30 ~ 21:50",
@@ -44,9 +30,9 @@
 },
     "SettingsInfo" : {
         "version" : "请更新",
-        "title" : "重要通知",
-        "info"  : "由于某些因素,4.9.7以上,4.10以下的版本无法正常更新,会跳转到404丢失链接,请前往:选项->维护关于->疑惑解答 修复->下载最新版本,造成的不便深表歉意,最新版本已修复此BUG",
-        "celebration" : false,
+        "title" : "国庆节快乐",
+        "info"  : "庆祝祖国75周年华诞",
+        "celebration" : true,
         "show" : true
     },
      "semesterId" : "274",
