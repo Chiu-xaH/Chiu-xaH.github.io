@@ -41,7 +41,7 @@
         "title" : "国庆节快乐",
         "info"  : "庆祝祖国75周年华诞🇨🇳",
         "celebration" : true,
-        "show" : true
+        "show" : false
     },
      "semesterId" : "274",
     "TimeStamp" : "庆祝祖国75周年华诞",
