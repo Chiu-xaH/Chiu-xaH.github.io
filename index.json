@@ -12,8 +12,15 @@
                 "title" : "英语视听说 Unit2",
                 "time" : "10-27 截止",
                 "info" : "U校园",
-                "startTime" : [2024,10,20,0,0],
+                "startTime" : [2024,10,21,0,0],
                 "endTime" : [2025,10,27,23,59],
+                "showPublic" : true
+            },{
+                "title" : "英语视听说 Unit3",
+                "time" : "11-10 截止",
+                "info" : "U校园",
+                "startTime" : [2024,10,28,0,0],
+                "endTime" : [2025,11,10,23,59],
                 "showPublic" : true
             }
         ],
