@@ -54,7 +54,7 @@
         "version" : "请更新",
         "title" : "更新通知",
         "info"  : "通过统计用户数据发现仍存在少量4.9.7.2版本用户 由于此版本问题，无法正常更新，如有需求请按 查询中心-消息中心 中的步骤操作",
-        "celebration" : true,
+        "celebration" : false,
         "show" : true
     },
      "semesterId" : "274",
