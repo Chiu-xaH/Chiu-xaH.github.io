@@ -2,11 +2,11 @@
     "Lessons" : {
         "MyList" : [
           {
-                "title" : "英语视听说",
-                "time" : "09-21 ～ 03-21",
+                "title" : "英语视听说 Unit1",
+                "time" : "10-20 截止",
                 "info" : "U校园",
                 "startTime" : [2024,9,21,0,0],
-                "endTime" : [2025,3,21,23,59],
+                "endTime" : [2025,10,20,23,59],
                 "showPublic" : true
             }
         ],
@@ -54,6 +54,11 @@
         {
             "title" : "大学物理实验 安排",
             "info" : "https://sm.ms/image/8uXmRhO5GlPZz9D",
+            "type" : "STARTURI"
+        },
+        {
+            "title" : "视听说答案 来自 好多学生 公众号",
+            "info" : "https://mp.weixin.qq.com/s/_T47K1Q58gFqkqtd-LoXMA",
             "type" : "STARTURI"
         }
     ],
