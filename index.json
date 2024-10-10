@@ -54,7 +54,7 @@
         "title" : "更新通知",
         "info"  : "通过统计用户数据发现仍存在少量4.9.7.2版本用户 由于此版本更新机制问题，且存在严重的支付Bug，如有需求请按 查询中心-消息中心 中的步骤操作",
         "celebration" : false,
-        "show" : true
+        "show" : false
     },
      "semesterId" : "274",
     "TimeStamp" : "2024-10-09 08:21 更新",
