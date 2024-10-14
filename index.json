@@ -58,7 +58,7 @@
         "show" : false
     },
      "semesterId" : "274",
-    "TimeStamp" : "2024-10-13 16:53 更新",
+    "TimeStamp" : "2024-10-13 13:23 更新",
     "Labs" : [
         {
             "title" : "马院题库",
@@ -73,6 +73,11 @@
         {
             "title" : "视听说答案\n来自 好多学生 公众号",
             "info" : "https://mp.weixin.qq.com/s/_T47K1Q58gFqkqtd-LoXMA",
+            "type" : "STARTURI"
+        },
+        {
+            "title" : "开发者的Github 😍",
+            "info" : "https://github.com/Chiu-xaH",
             "type" : "STARTURI"
         }
     ],
