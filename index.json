@@ -52,13 +52,13 @@
 },
     "SettingsInfo" : {
         "version" : "请更新",
-        "title" : "更新通知",
-        "info"  : "通过统计用户数据发现仍存在少量4.9.7.2版本用户 由于此版本更新机制问题，且存在严重的支付Bug，如有需求请按 查询中心-消息中心 中的步骤操作",
-        "celebration" : false,
-        "show" : false
+        "title" : "祝我一岁生日快乐~",
+        "info"  : "一年前的今天-10月16日,我的开发者新建了我的文件夹,我由此诞生,很荣幸服务大家",
+        "celebration" : true,
+        "show" : true
     },
      "semesterId" : "274",
-    "TimeStamp" : "2024-10-13 13:23 更新",
+    "TimeStamp" : "聚在工大 一周岁生日快乐",
     "Labs" : [
         {
             "title" : "马院题库",
