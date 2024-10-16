@@ -54,14 +54,6 @@
                 "startTime" : [2024,10,29,18,30],
                 "endTime" : [2024,10,29,21,50],
                 "showPublic" : false
-            },
-            {
-                "title" : "祝我一岁生日快乐🎈~",
-                "time" : "10-16",
-                "info" : "一年前的今天,我的开发者新建了我的文件夹,我由此诞生,很荣幸服务大家🤩",
-                "startTime" : [2024,10,16,0,0],
-                "endTime" : [2024,10,16,23,59],
-                "showPublic" : true
             }
         ]
 },
@@ -70,10 +62,10 @@
         "title" : "祝我一岁生日快乐🎈~",
         "info"  : "一年前的今天,我的开发者新建了我的文件夹,我由此诞生,很荣幸服务大家🤩\n我是开发者在学习计算机道路上的第一个自主完成的项目,也见证了他的成长🧐",
         "celebration" : true,
-        "show" : true
+        "show" : false
     },
      "semesterId" : "274",
-    "TimeStamp" : "聚在工大 一周岁生日快乐🎉",
+    "TimeStamp" : "这周可以双休~",
     "Labs" : [
         {
             "title" : "马院题库",
@@ -91,7 +83,7 @@
             "type" : "STARTURI"
         },
         {
-            "title" : "程序设计艺术与方法 上机安排",
+            "title" : "程设艺术与方法 上机安排",
             "info" : "http://8.154.28.108/lab.jpg",
             "type" : "STARTURI"
         }
