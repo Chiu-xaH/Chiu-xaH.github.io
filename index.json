@@ -54,6 +54,41 @@
                 "startTime" : [2024,10,29,18,30],
                 "endTime" : [2024,10,29,21,50],
                 "showPublic" : false
+            },{
+                "title" : "数字逻辑 实验",
+                "time" : "10-27 周日 10:10",
+                "info" : "未知",
+                "startTime" : [2024,10,27,10,10],
+                "endTime" : [2024,10,27,11,50],
+                "showPublic" : false
+            },{
+                "title" : "数字逻辑 实验",
+                "time" : "11-03 周日 10:10",
+                "info" : "未知",
+                "startTime" : [2024,11,3,10,10],
+                "endTime" : [2024,11,3,11,50],
+                "showPublic" : false
+            },{
+                "title" : "数字逻辑 实验",
+                "time" : "11-10 周日 10:10",
+                "info" : "未知",
+                "startTime" : [2024,11,10,10,10],
+                "endTime" : [2024,11,10,11,50],
+                "showPublic" : false
+            },{
+                "title" : "数字逻辑 实验",
+                "time" : "11-15 周五 10:10",
+                "info" : "未知",
+                "startTime" : [2024,11,15,10,10],
+                "endTime" : [2024,11,15,11,50],
+                "showPublic" : false
+            },{
+                "title" : "数字逻辑 实验",
+                "time" : "11-17 周日 10:10",
+                "info" : "未知",
+                "startTime" : [2024,11,17,10,10],
+                "endTime" : [2024,11,17,11,50],
+                "showPublic" : false
             }
         ]
 },
@@ -65,7 +100,7 @@
         "show" : false
     },
      "semesterId" : "274",
-    "TimeStamp" : "10-21 22:07 更新",
+    "TimeStamp" : "10-22 19:00 更新",
     "Labs" : [
         {
             "title" : "马院题库",
@@ -81,10 +116,19 @@
             "title" : "视听说答案\n来自 好多学生 公众号",
             "info" : "https://mp.weixin.qq.com/s/_T47K1Q58gFqkqtd-LoXMA",
             "type" : "STARTURI"
+        },{
+            "title" : "大学物理实验(上) 安排\n第2周 示波器的使用 407\n第3周 三线摆 314\n第3周 电子核质比 409\n第5周 分光计的使用 301\n第6周 电学设计 401\n第7周 电桥法测电阻 402\n第8周 导热系数 316",
+            "info" : "http://8.154.28.108/sources/physics.jpg",
+            "type" : "STARTURI"
         },
         {
             "title" : "程设艺术与方法 上机安排",
-            "info" : "http://8.154.28.108/lab.jpg",
+            "info" : "http://8.154.28.108/sources/lab.jpg",
+            "type" : "STARTURI"
+        },
+        {
+            "title" : "数字逻辑 上机安排",
+            "info" : "http://8.154.28.108/sources/FPGA.png",
             "type" : "STARTURI"
         }
     ],
@@ -100,18 +144,6 @@
             "info" : "由于某些因素,4.9.7以上的版本无法正常更新,会跳转到404丢失链接,请前往:选项->维护关于->疑惑解答 修复->下载最新版本,造成的不便深表歉意,最新版本已修复此BUG",
             "remark" : "2024-09-13",
             "url" : "https://gitee.com/chiu-xah/HFUT-Schedule/releases/tag/Android"
-        },
-         {
-            "title" : "大学物理实验(上) 综合实验楼二 具体安排",
-            "info" : "第2周 示波器的使用 407\n第3周 三线摆 314\n第3周 电子核质比 409\n第5周 分光计的使用 301\n第6周 电学设计 401\n第7周 电桥法测电阻 402\n第8周 导热系数 316",
-            "remark" : "实验楼二入口处张贴了告示,有需求的可前往 查询中心-网址导航-实验室 查看",
-            "url" : "https://sm.ms/image/8uXmRhO5GlPZz9D"
-        },
-         {
-            "title" : "程序设计艺术方法上机 具体安排",
-            "info" : "已挂载于 查询中心-网址导航-实验室",
-            "remark" : "2023-10-16",
-            "url" : "http://8.154.28.108/lab.jpg"
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/QcbEnVA1LYv3NGX",
