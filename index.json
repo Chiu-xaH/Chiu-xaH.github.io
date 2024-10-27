@@ -1,21 +1,7 @@
 {
     "Lessons" : {
         "MyList" : [
-          {
-                "title" : "英语视听说3 Unit1",
-                "time" : "10-20 截止",
-                "info" : "U校园",
-                "startTime" : [2024,9,21,0,0],
-                "endTime" : [2025,10,20,23,59],
-                "showPublic" : true
-            },{
-                "title" : "英语 测试1",
-                "time" : "10-26 09:00 截止",
-                "info" : "长江雨课堂",
-                "startTime" : [2024,10,13,10,56],
-                "endTime" : [2025,10,26,9,0],
-                "showPublic" : true
-            },
+          
             {
                 "title" : "英语视听说3 Unit2",
                 "time" : "10-27 截止",
@@ -40,14 +26,7 @@
             }
         ],
         "Schedule" : [
-           {
-                "title" : "数字逻辑 实验",
-                "time" : "10-27 周日 10:10",
-                "info" : "电气楼 507",
-                "startTime" : [2024,10,27,10,10],
-                "endTime" : [2024,10,27,11,50],
-                "showPublic" : false
-            },
+         
             {
                 "title" : "程设艺术方法 上机",
                 "time" : "10-29 周二 18:30",
@@ -58,31 +37,17 @@
             },
             {
                 "title" : "数字逻辑 实验",
-                "time" : "11-03 周日 10:10",
-                "info" : "未知",
-                "startTime" : [2024,11,3,10,10],
-                "endTime" : [2024,11,3,11,50],
-                "showPublic" : false
-            },{
-                "title" : "数字逻辑 实验",
                 "time" : "11-10 周日 10:10",
-                "info" : "未知",
+                "info" : "电子电气楼",
                 "startTime" : [2024,11,10,10,10],
                 "endTime" : [2024,11,10,11,50],
                 "showPublic" : false
             },{
                 "title" : "数字逻辑 实验",
                 "time" : "11-15 周五 10:10",
-                "info" : "未知",
+                "info" : "电子电气楼",
                 "startTime" : [2024,11,15,10,10],
                 "endTime" : [2024,11,15,11,50],
-                "showPublic" : false
-            },{
-                "title" : "数字逻辑 实验",
-                "time" : "11-17 周日 10:10",
-                "info" : "未知",
-                "startTime" : [2024,11,17,10,10],
-                "endTime" : [2024,11,17,11,50],
                 "showPublic" : false
             }
         ]
@@ -95,7 +60,7 @@
         "show" : false
     },
      "semesterId" : "274",
-    "TimeStamp" : "10-22 19:00 更新",
+    "TimeStamp" : "10-27 20:14 更新",
     "Labs" : [
         {
             "title" : "马院题库",
@@ -122,7 +87,7 @@
             "type" : "STARTURI"
         },
         {
-            "title" : "数字逻辑 上机安排\n(第一次位置 电气楼507)",
+            "title" : "数字逻辑 上机安排\n(第二次位置 待公布)",
             "info" : "http://8.154.28.108/sources/FPGA.png",
             "type" : "STARTURI"
         }
