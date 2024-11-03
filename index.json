@@ -51,16 +51,11 @@
         "show" : false
     },
      "semesterId" : "274",
-    "TimeStamp" : "10-29 23:07 更新",
+    "TimeStamp" : "11-03 10:38 更新",
     "Labs" : [
         {
             "title" : "马院题库",
             "info" : "https://sizhengke.capstone.fun/h5/",
-            "type" : "STARTURI"
-        },
-        {
-            "title" : "大学物理实验 安排",
-            "info" : "https://sm.ms/image/8uXmRhO5GlPZz9D",
             "type" : "STARTURI"
         },
         {
@@ -70,11 +65,6 @@
         },{
             "title" : "大学物理实验(上) 安排\n第2周 示波器的使用 407\n第3周 三线摆 314\n第3周 电子核质比 409\n第5周 分光计的使用 301\n第6周 电学设计 401\n第7周 电桥法测电阻 402\n第8周 导热系数 316",
             "info" : "http://8.154.28.108/sources/physics.jpg",
-            "type" : "STARTURI"
-        },
-        {
-            "title" : "程设艺术与方法 上机安排",
-            "info" : "http://8.154.28.108/sources/lab.jpg",
             "type" : "STARTURI"
         },
         {
