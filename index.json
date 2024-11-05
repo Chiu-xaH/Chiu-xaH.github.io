@@ -1,7 +1,6 @@
 {
     "Lessons" : {
         "MyList" : [
-          
             {
                 "title" : "Test2",
                 "time" : "11-10 09:00 截止",
@@ -29,7 +28,7 @@
             {
                 "title" : "数字逻辑 实验",
                 "time" : "11-10 周日 10:10",
-                "info" : "电子电气楼",
+                "info" : "电子电气楼507",
                 "startTime" : [2024,11,10,10,10],
                 "endTime" : [2024,11,10,11,50],
                 "showPublic" : false
@@ -68,7 +67,7 @@
             "type" : "STARTURI"
         },
         {
-            "title" : "数字逻辑 上机安排\n(第二次位置 待公布)",
+            "title" : "数字逻辑 上机安排\n(第二次位置 电子电气楼507)",
             "info" : "http://8.154.28.108/sources/FPGA.png",
             "type" : "STARTURI"
         }
