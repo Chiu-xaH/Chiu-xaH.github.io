@@ -6,33 +6,26 @@
                 "time" : "11-10 09:00 截止",
                 "info" : "长江雨课堂",
                 "startTime" : [2024,10,27,0,0],
-                "endTime" : [2025,11,10,9,0],
+                "endTime" : [2024,11,10,9,0],
                 "showPublic" : true
             },{
                 "title" : "英语视听说3 Unit3",
                 "time" : "11-10 截止",
                 "info" : "U校园",
                 "startTime" : [2024,10,28,0,0],
-                "endTime" : [2025,11,10,23,59],
+                "endTime" : [2024,11,10,23,59],
                 "showPublic" : true
             },{
                 "title" : "英语视听说3 Unit4",
                 "time" : "11-17 截止",
                 "info" : "U校园",
                 "startTime" : [2024,11,11,0,0],
-                "endTime" : [2025,11,17,23,59],
+                "endTime" : [2024,11,17,23,59],
                 "showPublic" : true
             }
         ],
         "Schedule" : [
             {
-                "title" : "数字逻辑 实验",
-                "time" : "11-10 周日 10:10",
-                "info" : "电子电气楼507",
-                "startTime" : [2024,11,10,10,10],
-                "endTime" : [2024,11,10,11,50],
-                "showPublic" : false
-            },{
                 "title" : "数字逻辑 实验",
                 "time" : "11-15 周五 10:10",
                 "info" : "电子电气楼",
@@ -50,7 +43,7 @@
         "show" : false
     },
      "semesterId" : "274",
-    "TimeStamp" : "11-08 13:12 更新",
+    "TimeStamp" : "11-10 20:57 更新",
     "Labs" : [
         {
             "title" : "马院题库",
@@ -63,7 +56,7 @@
             "type" : "STARTURI"
         },
         {
-            "title" : "数字逻辑 上机安排\n(第二次位置 电子电气楼507)",
+            "title" : "数字逻辑 上机安排\n(第三次位置 电子电气楼未知)",
             "info" : "http://8.154.28.108/sources/FPGA.png",
             "type" : "STARTURI"
         }
