@@ -2,11 +2,11 @@
     "Lessons" : {
         "MyList" : [
             {
-                "title" : "Test2",
-                "time" : "11-10 09:00 截止",
+                "title" : "Test3",
+                "time" : "11-30 09:00 截止",
                 "info" : "长江雨课堂",
-                "startTime" : [2024,10,27,0,0],
-                "endTime" : [2024,11,10,9,0],
+                "startTime" : [2024,11,16,17,18],
+                "endTime" : [2024,11,30,9,0],
                 "showPublic" : true
             },{
                 "title" : "英语视听说3 Unit4",
