@@ -32,7 +32,21 @@
             }
         ],
         "Schedule" : [
-            
+            {
+                "title" : "离散数学 上机",
+                "time" : "12-02 周一 18:00",
+                "info" : "第二三机房",
+                "startTime" : [2024,12,2,18,0],
+                "endTime" : [2024,12,2,20,50],
+                "showPublic" : true
+            },{
+                "title" : "离散数学 上机",
+                "time" : "12-09 周一 18:00",
+                "info" : "第二三机房",
+                "startTime" : [2024,12,9,18,0],
+                "endTime" : [2024,12,9,20,50],
+                "showPublic" : true
+            }
         ]
 },
     "SettingsInfo" : {
