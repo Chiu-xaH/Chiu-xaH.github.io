@@ -43,7 +43,7 @@
         "show" : false
     },
      "semesterId" : "274",
-    "TimeStamp" : "11-18 23:21 更新",
+    "TimeStamp" : "11-25 23:22 更新",
     "Labs" : [
         {
             "title" : "马院思政云题库",
@@ -53,6 +53,11 @@
         {
             "title" : "视听说答案\n来自 好多学生 公众号",
             "info" : "https://mp.weixin.qq.com/s/_T47K1Q58gFqkqtd-LoXMA",
+            "type" : "STARTURI"
+        },
+        {
+            "title" : "离散数学 上机安排",
+            "info" : "http://8.154.28.108/sources/IMG_4067.jpeg",
             "type" : "STARTURI"
         }
     ],
