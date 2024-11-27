@@ -77,15 +77,10 @@
     ],
     "Notifications" : [
         {
-            "title" : "重要通知",
+            "title" : "考试通知",
             "info" : "12-01 选修慕课考试 注意复习",
             "remark" : "点击查看考试安排表",
             "url" : "https://xcjwb.hfut.edu.cn/_upload/article/files/59/49/8cb6895145a3936dc9a06a2dd50c/5441cd47-b322-43d6-941e-a184fbc7564a.xlsx"
-        },{
-            "title" : "致部分用户通知",
-            "info" : "目前，华为设备搭载的最新鸿蒙OS基于Android 12，聚在工大新的渐变模糊UI需要某些库，仅支持Android 13+，对于低系统版本用户已尽量做了适配，很遗憾效果不佳，性能损耗较大，只能保留早期版本纯色分割线设计",
-            "remark" : "2024-11-26",
-            "url" : null
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/QcbEnVA1LYv3NGX",
