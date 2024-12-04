@@ -2,44 +2,37 @@
     "Lessons" : {
         "MyList" : [
             {
-                "title" : "Test3",
-                "time" : "11-30 09:00 截止",
+                "title" : "CET6 Test4",
+                "time" : "12-13 09:00 截止",
                 "info" : "长江雨课堂",
-                "startTime" : [2024,11,16,17,18],
-                "endTime" : [2024,11,30,9,0],
+                "startTime" : [2024,12,3,22,43],
+                "endTime" : [2024,12,13,9,0],
                 "showPublic" : true
             },{
-                "title" : "英语视听说3 Unit4",
-                "time" : "11-17 截止",
-                "info" : "U校园",
-                "startTime" : [2024,11,11,0,0],
-                "endTime" : [2024,11,17,23,59],
-                "showPublic" : true
-            },{
-                "title" : "英语视听说3 Unit5",
-                "time" : "12-01 截止",
-                "info" : "U校园",
-                "startTime" : [2024,11,11,0,0],
-                "endTime" : [2024,12,1,23,59],
-                "showPublic" : true
-            },{
-                "title" : "英语视听说3 Unit6",
+                "title" : "视听说3 Unit6",
                 "time" : "12-08 截止",
                 "info" : "U校园",
                 "startTime" : [2024,12,1,0,0],
                 "endTime" : [2024,12,8,23,59],
                 "showPublic" : true
+            },{
+                "title" : "视听说3 Unit7",
+                "time" : "12-18 截止",
+                "info" : "U校园",
+                "startTime" : [2024,12,8,0,0],
+                "endTime" : [2024,12,18,23,59],
+                "showPublic" : true
+            },{
+                "title" : "视听说3 Unit8",
+                "time" : "12-31 截止",
+                "info" : "U校园",
+                "startTime" : [2024,12,18,0,0],
+                "endTime" : [2024,12,31,23,59],
+                "showPublic" : true
             }
         ],
         "Schedule" : [
             {
-                "title" : "离散数学 上机",
-                "time" : "12-02 周一 18:00",
-                "info" : "第二三机房 (23-计算机)",
-                "startTime" : [2024,12,2,18,0],
-                "endTime" : [2024,12,2,20,50],
-                "showPublic" : true
-            },{
                 "title" : "离散数学 上机",
                 "time" : "12-09 周一 18:00",
                 "info" : "第二三机房 (23-计算机)",
@@ -57,7 +50,7 @@
         "show" : false
     },
      "semesterId" : "274",
-    "TimeStamp" : "11-25 23:22 更新",
+    "TimeStamp" : "12-04 08:38 更新",
     "Labs" : [
         {
             "title" : "马院思政云题库",
@@ -77,10 +70,10 @@
     ],
     "Notifications" : [
         {
-            "title" : "考试通知",
-            "info" : "12-01 选修慕课考试 注意复习",
-            "remark" : "点击查看考试安排表",
-            "url" : "https://xcjwb.hfut.edu.cn/_upload/article/files/59/49/8cb6895145a3936dc9a06a2dd50c/5441cd47-b322-43d6-941e-a184fbc7564a.xlsx"
+            "title" : "",
+            "info" : "",
+            "remark" : "",
+            "url" : null
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/QcbEnVA1LYv3NGX",
