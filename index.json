@@ -65,9 +65,9 @@
     ],
     "Notifications" : [
         {
-            "title" : "",
-            "info" : "",
-            "remark" : "",
+            "title" : "功能通知",
+            "info" : "一卡通账单由于对方服务器问题无法查询，估计过几天才能好",
+            "remark" : "12-06",
             "url" : null
         }
     ],
