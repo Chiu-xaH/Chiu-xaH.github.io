@@ -50,7 +50,7 @@
         "show" : false
     },
      "semesterId" : "274",
-    "TimeStamp" : "12-05 22:27 更新",
+    "TimeStamp" : "12-09 11:29 更新",
     "Labs" : [
         {
             "title" : "马院思政云题库",
@@ -60,6 +60,16 @@
         {
             "title" : "视听说答案\n来自 好多学生 公众号",
             "info" : "https://mp.weixin.qq.com/s/_T47K1Q58gFqkqtd-LoXMA",
+            "type" : "STARTURI"
+        },
+        {
+            "title" : "计算方法 上机安排",
+            "info" : "http://8.154.28.108/sources/schedule.jpg",
+            "type" : "STARTURI"
+        },
+        {
+            "title" : "计算方法 实验内容提取(浏览器打开)",
+            "info" : "http://8.154.28.108/sources/jsff.zip",
             "type" : "STARTURI"
         }
     ],
