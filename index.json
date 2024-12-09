@@ -66,11 +66,6 @@
             "title" : "计算方法 上机安排",
             "info" : "http://8.154.28.108/sources/schedule.jpg",
             "type" : "STARTURI"
-        },
-        {
-            "title" : "计算方法 实验内容提取(浏览器打开)",
-            "info" : "http://8.154.28.108/sources/jsff.zip",
-            "type" : "STARTURI"
         }
     ],
     "Notifications" : [
