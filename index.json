@@ -89,6 +89,11 @@
             "info" : "一卡通账单由于对方服务器问题无法查询，估计过几天才能好",
             "remark" : "12-06",
             "url" : null
+        },{
+            "title" : "通知",
+            "info" : "腾讯文档匿名调查问卷已挂载至网址导航，有奇怪的Bug可能因机型系统而触发，如有请立刻反馈，如有更好的功能需求及提议也可提交",
+            "remark" : "点击可跳转填写",
+            "url" : "https://docs.qq.com/form/page/DWHlwd1JZYlRtcVZ0"
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/QcbEnVA1LYv3NGX",
