@@ -53,6 +53,11 @@
     "TimeStamp" : "12-12 11:42 更新",
     "Labs" : [
         {
+            "title" : "Bug反馈,功能提议\n腾讯文档匿名调查问卷",
+            "info" : "https://docs.qq.com/form/page/DWHlwd1JZYlRtcVZ0",
+            "type" : "STARTURI"
+        },
+        {
             "title" : "马院思政云题库",
             "info" : "https://sizhengke.capstone.fun/h5/",
             "type" : "STARTURI"
