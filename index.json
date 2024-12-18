@@ -82,6 +82,10 @@
             "title" : "标准正态分布表",
             "info" : "http://8.154.28.108/sources/gaussian.png",
             "type" : "STARTURI"
+        },{
+            "title" : "开发者的Github",
+            "info" : "https://github.com/Chiu-xaH",
+            "type" : "STARTURI"
         }
     ],
     "Notifications" : [
