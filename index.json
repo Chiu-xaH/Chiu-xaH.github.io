@@ -2,25 +2,18 @@
     "Lessons" : {
         "MyList" : [
             {
-                "title" : "CET6 Test4",
-                "time" : "12-13 09:00 截止",
-                "info" : "长江雨课堂",
-                "startTime" : [2024,12,3,22,43],
-                "endTime" : [2024,12,13,9,0],
-                "showPublic" : true
-            },{
-                "title" : "视听说3 Unit7",
-                "time" : "12-18 截止",
-                "info" : "U校园",
-                "startTime" : [2024,12,8,0,0],
-                "endTime" : [2024,12,18,23,59],
-                "showPublic" : true
-            },{
                 "title" : "视听说3 Unit8",
                 "time" : "12-31 截止",
                 "info" : "U校园",
                 "startTime" : [2024,12,18,0,0],
                 "endTime" : [2024,12,31,23,59],
+                "showPublic" : true
+            },{
+                "title" : "CET6 Test5",
+                "time" : "01-05 09:00 截止",
+                "info" : "长江雨课堂 大学英语(3)",
+                "startTime" : [2024,12,19,22,15],
+                "endTime" : [2024,1,5,9,0],
                 "showPublic" : true
             }
         ],
@@ -51,7 +44,7 @@
         "show" : false
     },
      "semesterId" : "274",
-    "TimeStamp" : "12-14 17:17 更新",
+    "TimeStamp" : "12-14 21:52 更新",
     "Labs" : [
         {
             "title" : "Bug反馈,功能提议\n应用内无法打开就点右上角浏览器打开",
