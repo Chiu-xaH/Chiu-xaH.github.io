@@ -20,17 +20,9 @@
         "Schedule" : [
             {
                 "title" : "计算方法 上机",
-                "time" : "12-17 19:00 周二",
-                "info" : "计算中心 第6机房",
-                "startTime" : [2024,12,17,19,0],
-                "endTime" : [2024,12,17,20,50],
-                "showPublic" : false
-            },
-            {
-                "title" : "计算方法 上机",
                 "time" : "12-25 16:00 周三",
                 "info" : "计算中心 第2机房",
-                "startTime" : [2024,12,23,16,0],
+                "startTime" : [2024,12,25,16,0],
                 "endTime" : [2024,12,25,20,50],
                 "showPublic" : false
             }
