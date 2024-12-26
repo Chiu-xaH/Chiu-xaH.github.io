@@ -87,7 +87,7 @@
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/QcbEnVA1LYv3NGX",
-    "Next" : true,
+    "Next" : false,
     "API" : "http://8.154.28.108/",
     "useNewAPI" : false
 }
