@@ -30,13 +30,13 @@
 },
     "SettingsInfo" : {
         "version" : "请更新",
-        "title" : "",
-        "info"  : "",
+        "title" : "2025 🤗",
+        "info"  : "元旦快乐",
         "celebration" : true,
-        "show" : false
+        "show" : true
     },
      "semesterId" : "274",
-    "TimeStamp" : "提前恭祝2025到来 🤩",
+    "TimeStamp" : "欢迎 2025 😘",
     "Labs" : [
         {
             "title" : "Bug反馈,功能提议\n应用内无法打开就点右上角浏览器打开",
