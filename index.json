@@ -49,11 +49,6 @@
             "type" : "STARTURI"
         },
         {
-            "title" : "计算方法 上机安排",
-            "info" : "http://8.154.28.108/sources/schedule.jpg",
-            "type" : "STARTURI"
-        },
-        {
             "title" : "泊松分布表",
             "info" : "http://8.154.28.108/sources/poisson.png",
             "type" : "STARTURI"
