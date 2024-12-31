@@ -36,7 +36,7 @@
         "show" : false
     },
      "semesterId" : "274",
-    "TimeStamp" : "12-14 21:52 更新",
+    "TimeStamp" : "提前恭祝2025到来 🤩",
     "Labs" : [
         {
             "title" : "Bug反馈,功能提议\n应用内无法打开就点右上角浏览器打开",
@@ -46,11 +46,6 @@
         {
             "title" : "马院思政云题库",
             "info" : "https://sizhengke.capstone.fun/h5/",
-            "type" : "STARTURI"
-        },
-        {
-            "title" : "视听说答案\n来自 好多学生 公众号",
-            "info" : "https://mp.weixin.qq.com/s/_T47K1Q58gFqkqtd-LoXMA",
             "type" : "STARTURI"
         },
         {
@@ -76,14 +71,9 @@
     "Notifications" : [
         {
             "title" : "功能通知",
-            "info" : "一卡通账单虽然已经好了，貌似清了数据，只能从2024-12-13开始有记录了...",
-            "remark" : "12-14",
+            "info" : "教务那边似乎砍掉了培养方案完成情况功能，网站不显示了，这边的接口也不能用，只能等待返场了 😂",
+            "remark" : "12-31",
             "url" : null
-        },{
-            "title" : "通知",
-            "info" : "腾讯文档匿名调查问卷已挂载至网址导航-实验室，作为个人开发者，没有很多的测试场景，尽管分发新版本之前都会做测试，仍有些潜在的设计缺陷未被发现，如有严重性的崩溃闪退等请立刻反馈，如有更好的功能需求及提议也可提交",
-            "remark" : "点击可跳转填写 应用内无法打开就右上角浏览器打开",
-            "url" : "https://docs.qq.com/form/page/DWHlwd1JZYlRtcVZ0"
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/QcbEnVA1LYv3NGX",
