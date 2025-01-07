@@ -76,6 +76,12 @@
     "Notifications" : [
         {
             "title" : "功能通知",
+            "info" : "下学期课表功能已开放 入口在课表右上角菜单中，看到此通知后重新刷新登录状态即可获取新的课表",
+            "remark" : "01-07 17:25",
+            "url" : null
+        },
+        {
+            "title" : "功能通知",
             "info" : "教务那边似乎砍掉了培养方案完成情况功能，网站不显示了，这边的接口也不能用，只能等待返场了 😂",
             "remark" : "12-31",
             "url" : null
@@ -88,7 +94,7 @@
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/QcbEnVA1LYv3NGX",
-    "Next" : false,
+    "Next" : true,
     "API" : "http://www.ABCD.com/",
     "useNewAPI" : false
 }
