@@ -52,7 +52,12 @@
      "semesterId" : "274",
     "TimeStamp" : "01-07 15:10 更新",
     "Labs" : [
-{
+        {
+            "title" : "选修课程调研(其他同学写的,只转载供参考)\n应用内无法打开就点右上角浏览器打开",
+            "info" : "https://docs.qq.com/sheet/DS2dxU1VEY1BOTXFx",
+            "type" : "STARTURI"
+        },
+        {
             "title" : "转专业公告(需连校园网)",
             "info" : "http://jwc.hfut.edu.cn/tznr.jsp?urltype=news.NewsContentUrl&wbtreeid=1013&wbnewsid=4120",
             "type" : "STARTURI"
