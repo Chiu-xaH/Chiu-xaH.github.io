@@ -45,13 +45,13 @@
 },
     "SettingsInfo" : {
         "version" : "请更新",
-        "title" : "2025 🤗",
-        "info"  : "元旦快乐",
+        "title" : "假期快乐 🤗",
+        "info"  : "本学期已结束",
         "celebration" : true,
-        "show" : false
+        "show" : true
     },
      "semesterId" : "274",
-    "TimeStamp" : "01-07 15:10 更新",
+    "TimeStamp" : "假期快乐 🥰",
     "Labs" : [
         {
             "title" : "选修课程调研(其他同学写的,只转载供参考)\n应用内无法打开就点右上角浏览器打开",
