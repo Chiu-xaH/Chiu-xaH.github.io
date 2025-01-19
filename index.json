@@ -68,7 +68,7 @@
     "Notifications" : [
         {
             "title" : "功能通知",
-            "info" : "全局学期已更换，欢迎来到2024-2025第二学期！社区课表暂时为空，按以往规律，在开学前会自动填充",
+            "info" : "全局学期已更换，欢迎来到2024-2025第二学期！建议刷新登录状态获取新的数据，默认展示的社区课表暂时为空，按以往规律，在开学前会自动填充，如需查看请从右上角切换为教务课表",
             "remark" : "01-07 17:25",
             "url" : null
         },
@@ -80,7 +80,7 @@
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/QcbEnVA1LYv3NGX",
-    "Next" : true,
+    "Next" : false,
     "API" : "http://www.ABCD.com/",
     "useNewAPI" : false
 }
