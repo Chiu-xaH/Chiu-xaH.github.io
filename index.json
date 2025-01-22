@@ -71,10 +71,16 @@
         }
     ],
     "Notifications" : [
+{
+            "title" : "通知",
+            "info" : "在Githib开源社区某位大佬的主动帮助下，目前已上架到F-Droid应用商店(里面收录了很多Github开源APP)，后续会同步发布在F-Droid，同时仍保持应用内直接更新的方式不变",
+            "remark" : "点击打开主页链接",
+            "url" : "https://f-droid.org/zh_Hans/packages/com.hfut.schedule/"
+        },
         {
             "title" : "功能通知",
             "info" : "全局学期已更换，欢迎来到2024-2025第二学期！建议刷新登录状态获取新的数据，默认展示的社区课表暂时为空，按以往规律，在开学前会自动填充，如需查看请从右上角切换为教务课表",
-            "remark" : "01-07 17:25",
+            "remark" : "01-19",
             "url" : null
         },
         {
