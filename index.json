@@ -2,13 +2,6 @@
     "Lessons" : {
         "MyList" : [
             {
-                "title" : "视听说3 Unit8",
-                "time" : "12-31 截止",
-                "info" : "U校园",
-                "startTime" : [2024,12,18,0,0],
-                "endTime" : [2024,12,31,23,59],
-                "showPublic" : true
-            },{
                 "title" : "CET6 Test5",
                 "time" : "01-05 09:00 截止",
                 "info" : "长江雨课堂 大学英语(3)",
@@ -18,18 +11,11 @@
             }
         ],
         "Schedule" : [
-            {
-                "title" : "今日是考试周最后一天 假期快乐 🎉",
-                "time" : "01-17 本学期已结束",
-                "info" : "下周将切换全局学期为2024-2025第二学期",
-                "startTime" : [2025,1,17,8,30],
-                 "endTime" : [2025,1,17,17,0],
-                 "showPublic" : true
-            },
+            
             {
                 "title" : "第二轮选课 先到先得",
                 "time" : "02-27 08:30 周四 ～ 03-01 17:00",
-                "info" : "⚠️ 记得开始前刷新登录状态查看课程汇总,确定第一轮选的课是否因人数多被退掉了\n选课类型 : 专业选修、转专业补课、重修、跨专业选课",
+                "info" : "选课类型 : 专业选修、转专业补课、重修、跨专业选课",
                 "startTime" : [2025,2,27,8,30],
                  "endTime" : [2025,3,1,17,0],
                  "showPublic" : true
@@ -50,17 +36,17 @@
         "celebration" : true,
         "show" : true
     },
-     "semesterId" : "274",
+     "semesterId" : "294",
     "TimeStamp" : "假期快乐 🥰",
     "Labs" : [
-        {
-            "title" : "选修课程调研(其他同学写的,只转载供参考)\n应用内无法打开就点右上角浏览器打开",
-            "info" : "https://docs.qq.com/sheet/DS2dxU1VEY1BOTXFx",
+{
+            "title" : "F-Droid应用商店 上的 聚在工大",
+            "info" : "https://f-droid.org/zh_Hans/packages/com.hfut.schedule/",
             "type" : "STARTURI"
         },
         {
-            "title" : "转专业公告(需连校园网)",
-            "info" : "http://jwc.hfut.edu.cn/tznr.jsp?urltype=news.NewsContentUrl&wbtreeid=1013&wbnewsid=4120",
+            "title" : "选修课程调研(其他同学写的,只转载供参考)\n应用内无法打开就点右上角浏览器打开",
+            "info" : "https://docs.qq.com/sheet/DS2dxU1VEY1BOTXFx",
             "type" : "STARTURI"
         },
         {
@@ -86,16 +72,10 @@
     ],
     "Notifications" : [
 {
-            "title" : "选课通知",
-            "info" : "第一轮选课筛选完成，可其刷新登录状态，查看下学期课程汇总",
-            "remark" : "01-17",
-            "url" : null
-        },
-        {
-            "title" : "功能通知",
-            "info" : "下学期课表功能已开放 入口在课表右上角菜单中，看到此通知后重新刷新登录状态即可获取新的课表",
-            "remark" : "01-07 17:25",
-            "url" : null
+            "title" : "通知",
+            "info" : "在Githib开源社区某位大佬的主动帮助下，目前已上架到F-Droid应用商店(里面收录了很多Github开源APP)，后续会同步发布在F-Droid，同时仍保持应用内直接更新的方式不变",
+            "remark" : "点击打开主页链接",
+            "url" : "https://f-droid.org/zh_Hans/packages/com.hfut.schedule/"
         },
         {
             "title" : "功能通知",
@@ -105,7 +85,7 @@
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/QcbEnVA1LYv3NGX",
-    "Next" : true,
+    "Next" : false,
     "API" : "http://www.ABCD.com/",
     "useNewAPI" : false
 }
