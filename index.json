@@ -11,7 +11,14 @@
             }
         ],
         "Schedule" : [
-            
+            {
+                "title" : "报道",
+                "time" : "02-22 ~ 02-23",
+                "info" : "到校注册",
+                "startTime" : [2025,2,22,0,0],
+                 "endTime" : [2025,2,23,23,59],
+                 "showPublic" : true
+            },
             {
                 "title" : "第二轮选课 先到先得",
                 "time" : "02-27 08:30 周四 ～ 03-01 17:00",
@@ -39,7 +46,7 @@
      "semesterId" : "294",
     "TimeStamp" : "新年新气象 过年好 🥰",
     "Labs" : [
-{
+        {
             "title" : "F-Droid应用商店 上的 聚在工大",
             "info" : "https://f-droid.org/zh_Hans/packages/com.hfut.schedule/",
             "type" : "STARTURI"
@@ -47,11 +54,6 @@
         {
             "title" : "选修课程调研(其他同学写的,只转载供参考)\n应用内无法打开就点右上角浏览器打开",
             "info" : "https://docs.qq.com/sheet/DS2dxU1VEY1BOTXFx",
-            "type" : "STARTURI"
-        },
-        {
-            "title" : "选课公告",
-            "info" : "https://xcjwb.hfut.edu.cn/9c/4e/c714a40014/page.htm",
             "type" : "STARTURI"
         },
         {
@@ -71,12 +73,6 @@
         }
     ],
     "Notifications" : [
-{
-            "title" : "通知",
-            "info" : "在Githib开源社区某位大佬的主动帮助下，目前已上架到F-Droid应用商店(里面收录了很多Github开源APP)，后续会同步发布在F-Droid，同时仍保持应用内直接更新的方式不变",
-            "remark" : "点击打开主页链接",
-            "url" : "https://f-droid.org/zh_Hans/packages/com.hfut.schedule/"
-        },
         {
             "title" : "功能通知",
             "info" : "教务那边似乎砍掉了培养方案完成情况功能，网站不显示了，这边的接口也不能用，只能等待返场了 😂",
