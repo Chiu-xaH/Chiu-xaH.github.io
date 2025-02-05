@@ -12,14 +12,6 @@
         ],
         "Schedule" : [
             {
-                "title" : "🐍年大吉",
-                "time" : "节日提醒",
-                "info" : "别查成绩了 过年🤗",
-                "startTime" : [2025,1,28,0,0],
-                 "endTime" : [2025,2,4,23,59],
-                 "showPublic" : true
-            },
-            {
                 "title" : "报道",
                 "time" : "02-22 ~ 02-23",
                 "info" : "到校注册",
@@ -75,8 +67,8 @@
             "type" : "STARTURI"
         },
         {
-            "title" : "开发者的Github",
-            "info" : "https://github.com/Chiu-xaH",
+            "title" : "合肥工业大学 就业信息网",
+            "info" : "https://gdjy.hfut.edu.cn/",
             "type" : "STARTURI"
         }
     ],
