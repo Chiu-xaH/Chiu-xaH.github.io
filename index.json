@@ -57,18 +57,8 @@
             "type" : "STARTURI"
         },
         {
-            "title" : "Bug反馈,功能提议\n应用内无法打开就点右上角浏览器打开",
-            "info" : "https://docs.qq.com/form/page/DWHlwd1JZYlRtcVZ0",
-            "type" : "STARTURI"
-        },
-        {
             "title" : "马院思政云题库",
             "info" : "https://sizhengke.capstone.fun/h5/",
-            "type" : "STARTURI"
-        },
-        {
-            "title" : "合肥工业大学 就业信息网",
-            "info" : "https://gdjy.hfut.edu.cn/",
             "type" : "STARTURI"
         }
     ],
