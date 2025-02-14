@@ -41,7 +41,7 @@
         "title" : "寒假进行中 🥳",
         "info"  : "恢复更新频率 马上将会推送新的版本",
         "celebration" : true,
-        "show" : true
+        "show" : false
     },
      "semesterId" : "294",
     "TimeStamp" : "寒假快乐 😋",
