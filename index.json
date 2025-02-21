@@ -38,13 +38,13 @@
 },
     "SettingsInfo" : {
         "version" : "请更新",
-        "title" : "寒假进行中 🥳",
-        "info"  : "恢复更新频率 马上将会推送新的版本",
+        "title" : "欢迎来到 2024-2025 第2学期",
+        "info"  : "🌸 春天 🌸",
         "celebration" : true,
         "show" : false
     },
      "semesterId" : "294",
-    "TimeStamp" : "寒假快乐 😋",
+    "TimeStamp" : "欢迎来到新学期",
     "Labs" : [
         {
             "title" : "F-Droid应用商店 上的 聚在工大",
