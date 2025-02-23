@@ -12,22 +12,14 @@
         ],
         "Schedule" : [
             {
-                "title" : "报道",
-                "time" : "02-22 ~ 02-23",
-                "info" : "到校注册",
-                "startTime" : [2025,2,22,0,0],
-                 "endTime" : [2025,2,23,23,59],
-                 "showPublic" : true
-            },
-            {
-                "title" : "第二轮选课 先到先得",
+                "title" : "宣城校区-第二轮选课",
                 "time" : "02-27 08:30 周四 ～ 03-01 17:00",
-                "info" : "选课类型 : 专业选修、转专业补课、重修、跨专业选课",
+                "info" : "选课类型 : 专业选修、转专业调课、重修、跨专业选课",
                 "startTime" : [2025,2,27,8,30],
                  "endTime" : [2025,3,1,17,0],
                  "showPublic" : true
             },{
-                "title" : "第三轮选课 个人调整",
+                "title" : "宣城校区-第三轮选课",
                 "time" : "03-06 08:30 周四 ～ 03-08 17:00",
                 "info" : "⚠️ 先到先得 有不喜欢的专业选修课尽快改",
                 "startTime" : [2025,3,6,8,30],
@@ -40,17 +32,12 @@
         "version" : "请更新",
         "title" : "欢迎进入 2024-2025第2学期",
         "info"  : "🌸 二月杨柳醉春烟 🌸",
-        "celebration" : true,
-        "show" : true
+        "celebration" : false,
+        "show" : false
     },
      "semesterId" : "294",
-    "TimeStamp" : "欢迎进入新学期",
+    "TimeStamp" : "02-23 21：13 更新",
     "Labs" : [
-        {
-            "title" : "F-Droid应用商店 上的 聚在工大",
-            "info" : "https://f-droid.org/zh_Hans/packages/com.hfut.schedule/",
-            "type" : "STARTURI"
-        },
         {
             "title" : "选修课程调研(其他同学写的,只转载供参考)\n应用内无法打开就点右上角浏览器打开",
             "info" : "https://docs.qq.com/sheet/DS2dxU1VEY1BOTXFx",
@@ -67,12 +54,6 @@
             "title" : "功能修复通知",
             "info" : "4.13.5.2版本修复了自1.0以来的逻辑错误，由于缺乏样本，我误判了一个参数，导致除了宣城校区23级在校生以外可能都拿不到课表、课程汇总等信息，经过同学的反馈，目前已修复",
             "remark" : "02-21",
-            "url" : null
-        },
-{
-            "title" : "功能通知",
-            "info" : "课表提前开始的问题，02-24 00:00起就会正常了，目前误判第-1周为第1周",
-            "remark" : "02-20",
             "url" : null
         },
         {
