@@ -24,13 +24,18 @@
     "SettingsInfo" : {
         "version" : "请更新",
         "title" : "CAS统一认证登录启用图片验证码使聚在工大无法刷新登录状态，已发布更新修复",
-        "info"  : "⚠️ 由于引入了机器学习依赖供图片验证码的识别,体积膨胀171.6%，14.5MB->39.2MB,下载更新慢的话可以挂在后台,本公告直到所有常用用户更新到新版本后消失",
+        "info"  : "⚠️ 本公告直到所有常用用户更新到新版本后消失",
         "celebration" : false,
         "show" : true
     },
      "semesterId" : "294",
-    "TimeStamp" : "03-01 17:36 更新",
+    "TimeStamp" : "03-02 21:43 更新",
     "Labs" : [
+        {
+            "title" : "大学物理实验(下) 安排",
+            "info" : "https://sm.ms/image/1lhIAiRom4FPrHU",
+            "type" : "STARTURI"
+        },
         {
             "title" : "选修课程调研(其他同学写的,只转载供参考)\n应用内无法打开就点右上角浏览器打开",
             "info" : "https://docs.qq.com/sheet/DS2dxU1VEY1BOTXFx",
