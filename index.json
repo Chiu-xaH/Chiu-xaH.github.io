@@ -5,8 +5,8 @@
                 "title" : "高等数学 慕课",
                 "time" : "03-28 22:00 截止",
                 "info" : "中国大学MOOC",
-                "startTime" : [2024,3,10,22,15],
-                "endTime" : [2024,3,28,22,0],
+                "startTime" : [2025,3,10,22,15],
+                "endTime" : [2025,3,28,22,0],
                 "showPublic" : true
             }
         ],
@@ -29,7 +29,7 @@
         "show" : false
     },
      "semesterId" : "294",
-    "TimeStamp" : "03-07 11:05 更新",
+    "TimeStamp" : "03-10 19:29 更新",
     "Labs" : [
         {
             "title" : "大学物理实验(下) 安排",
