@@ -2,11 +2,11 @@
     "Lessons" : {
         "MyList" : [
             {
-                "title" : "CET6 Test5",
-                "time" : "01-05 09:00 截止",
-                "info" : "长江雨课堂 大学英语(3)",
-                "startTime" : [2024,12,19,22,15],
-                "endTime" : [2024,1,5,9,0],
+                "title" : "高等数学 慕课",
+                "time" : "03-28 22:00 截止",
+                "info" : "中国大学MOOC",
+                "startTime" : [2024,3,10,22,15],
+                "endTime" : [2024,3,28,22,0],
                 "showPublic" : true
             }
         ],
