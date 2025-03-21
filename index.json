@@ -8,6 +8,14 @@
                 "startTime" : [2025,3,10,22,15],
                 "endTime" : [2025,3,28,22,0],
                 "showPublic" : true
+            },
+            {
+                "title" : "慕课",
+                "time" : "03-25 09:00 ～ 04-21 17:00",
+                "info" : "超星学习通",
+                "startTime" : [2025,3,25,9,0],
+                "endTime" : [2025,4,21,17,0],
+                "showPublic" : true
             }
         ],
         "Schedule" : [
