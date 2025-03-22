@@ -34,7 +34,7 @@
         "title" : "如显示有更新，请忽略",
         "info"  : "开发者正在测试有关新的功能",
         "celebration" : false,
-        "show" : true
+        "show" : false
     },
      "semesterId" : "294",
     "TimeStamp" : "03-22 01:54 更新",
