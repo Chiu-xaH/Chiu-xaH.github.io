@@ -31,10 +31,10 @@
 },
     "SettingsInfo" : {
         "version" : "请更新",
-        "title" : "请低于4.13.6.3版本升级至最新版本",
-        "info"  : "CAS统一认证登录启用图片验证码使聚在工大无法使用原来的登录方式",
+        "title" : "如显示有更新，请忽略",
+        "info"  : "开发者正在测试有关新的功能",
         "celebration" : false,
-        "show" : false
+        "show" : true
     },
      "semesterId" : "294",
     "TimeStamp" : "03-22 01:54 更新",
