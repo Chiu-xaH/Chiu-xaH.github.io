@@ -73,8 +73,8 @@
         {
                 "title" : "重要通告",
                 "info" : "所有用户注意，2025-03-27 约23:00开始，慧新易校平台所有数据均返回null，但是仍然返回200-操作成功(他们后端炸了)导致聚在工大直接崩了，我没想到200和成功的情况下会返回意想不到的值，最快的修复包也要在03-28下午，需要用的提前断网进入！下午从桌面长按图标，选择修复-下载最新版本，带来不便敬请谅解",
-                "remark" : "重要通告",
-            "url" : null
+                "remark" : "点击卡片查看具体问题",
+            "url" : "https://github.com/Chiu-xaH/HFUT-Schedule/issues/11"
             }
     ],
     "SchoolCalendar" : "https://sm.ms/image/QcbEnVA1LYv3NGX",
