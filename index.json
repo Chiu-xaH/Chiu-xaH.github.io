@@ -55,7 +55,7 @@
         "version" : "请更新",
         "title" : "重要通告",
         "info"  : "Hello",
-        "celebration" : false,
+        "celebration" : true,
         "show" : false
     },
      "semesterId" : "294",
