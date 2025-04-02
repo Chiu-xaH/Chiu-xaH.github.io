@@ -19,6 +19,14 @@
             }
         ],
         "Schedule" : [
+{
+                "title" : "调休通知",
+                "time" : "周五",
+                "info" : "清明假期 不上课",
+                "startTime" : [2025,4,4,0,0],
+                "endTime" : [2025,4,4,19,0],
+                "showPublic" : true
+            }
             
         ]
 },
