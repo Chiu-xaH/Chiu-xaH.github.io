@@ -8,6 +8,20 @@
                 "startTime" : [2025,3,28,22,0],
                 "endTime" : [2025,4,4,22,0],
                 "showPublic" : true
+            },{
+                "title" : "视听说4 Unit1",
+                "time" : "04-06 截止",
+                "info" : "U校园",
+                "startTime" : [2025,3,28,0,0],
+                "endTime" : [2025,4,6,23,59],
+                "showPublic" : true
+            },{
+                "title" : "视听说4 Unit2",
+                "time" : "04-20 截止",
+                "info" : "U校园",
+                "startTime" : [2025,4,6,0,0],
+                "endTime" : [2025,4,20,23,59],
+                "showPublic" : true
             },
             {
                 "title" : "慕课",
@@ -15,6 +29,13 @@
                 "info" : "超星学习通",
                 "startTime" : [2025,3,25,9,0],
                 "endTime" : [2025,4,21,17,0],
+                "showPublic" : true
+            },{
+                "title" : "视听说4 Unit3",
+                "time" : "05-04 截止",
+                "info" : "U校园",
+                "startTime" : [2025,4,20,0,0],
+                "endTime" : [2025,5,4,23,59],
                 "showPublic" : true
             }
         ],
@@ -38,7 +59,7 @@
         "show" : false
     },
      "semesterId" : "294",
-    "TimeStamp" : "03-29 00:23 更新",
+    "TimeStamp" : "04-03 00:22 更新",
     "Labs" : [
         {
             "title" : "大学物理实验(下) 安排",
