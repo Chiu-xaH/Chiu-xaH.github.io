@@ -46,11 +46,11 @@
         "version" : "请更新",
         "title" : "重要通告",
         "info"  : "Hello",
-        "celebration" : true,
+        "celebration" : false,
         "show" : false
     },
      "semesterId" : "294",
-    "TimeStamp" : "假期快乐",
+    "TimeStamp" : "04-06 13:18 更新",
     "Labs" : [
         {
             "title" : "大学物理实验(下) 安排",
