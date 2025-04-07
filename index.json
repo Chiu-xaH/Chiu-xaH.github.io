@@ -2,13 +2,6 @@
     "Lessons" : {
         "MyList" : [
             {
-                "title" : "高等数学 慕课互评",
-                "time" : "04-04 22:00 截止",
-                "info" : "中国大学MOOC",
-                "startTime" : [2025,3,28,22,0],
-                "endTime" : [2025,4,4,22,0],
-                "showPublic" : true
-            },{
                 "title" : "视听说4 Unit1",
                 "time" : "04-06 截止",
                 "info" : "U校园",
@@ -37,6 +30,27 @@
                 "startTime" : [2025,4,20,0,0],
                 "endTime" : [2025,5,4,23,59],
                 "showPublic" : true
+            },{
+                "title" : "高等数学 第九章 单元作业",
+                "time" : "05-02 22:00 截止",
+                "info" : "中国大学MOOC",
+                "startTime" : [2025,3,28,22,0],
+                "endTime" : [2025,5,2,22,0],
+                "showPublic" : true
+            },{
+                "title" : "高等数学 第九章 单元测试",
+                "time" : "05-09 22:00 截止",
+                "info" : "中国大学MOOC",
+                "startTime" : [2025,3,28,22,0],
+                "endTime" : [2025,5,8,22,0],
+                "showPublic" : true
+            },{
+                "title" : "嵌入式 作业",
+                "time" : "05-30 截止",
+                "info" : "超星学习通",
+                "startTime" : [2025,4,20,0,0],
+                "endTime" : [2025,5,30,23,59],
+                "showPublic" : false
             }
         ],
         "Schedule" : [
