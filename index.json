@@ -89,6 +89,12 @@
             "remark" : "02-10",
             "id" : 1,
             "url" : null
+        },{
+            "title" : "温馨提示",
+            "info" : "华为用户如果有APP出现问题的地方，可以反馈上来，由于国内对Android的深度魔改，以及华为坚持使用老版本Android 12定制Harmony OS，似乎容易出现一些奇怪的问题",
+            "remark" : "04-07",
+            "id" : 2,
+            "url" : null
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/eG5BEfPy4RCWQdj",
