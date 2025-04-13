@@ -95,6 +95,12 @@
             "remark" : "04-07",
             "id" : 2,
             "url" : null
+        },{
+            "title" : "功能提示",
+            "info" : "转专业用户在4.15及以上版本，已支持切换聚焦界面的数据源，位于选项-应用行为-默认课程表，切换为'教务'数据源即可",
+            "remark" : "04-13",
+            "id" : 3,
+            "url" : null
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/eG5BEfPy4RCWQdj",
