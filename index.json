@@ -2,13 +2,6 @@
     "Lessons" : {
         "MyList" : [
             {
-                "title" : "视听说4 Unit1",
-                "time" : "04-06 截止",
-                "info" : "U校园",
-                "startTime" : [2025,3,28,0,0],
-                "endTime" : [2025,4,6,23,59],
-                "showPublic" : true
-            },{
                 "title" : "视听说4 Unit2",
                 "time" : "04-20 截止",
                 "info" : "U校园",
@@ -31,19 +24,19 @@
                 "endTime" : [2025,5,4,23,59],
                 "showPublic" : true
             },{
-                "title" : "高等数学 第九章 单元作业",
+                "title" : "高等数学 第九章",
                 "time" : "05-02 22:00 截止",
                 "info" : "中国大学MOOC",
                 "startTime" : [2025,3,28,22,0],
                 "endTime" : [2025,5,2,22,0],
                 "showPublic" : true
             },{
-                "title" : "高等数学 第九章 单元测试",
-                "time" : "05-09 22:00 截止",
-                "info" : "中国大学MOOC",
-                "startTime" : [2025,3,28,22,0],
-                "endTime" : [2025,5,8,22,0],
-                "showPublic" : true
+                "title" : "计算机组成原理 实验报告3",
+                "time" : "04-20 23:00 截止",
+                "info" : "https://send2me.cn/_7xOPg5r/So2yn6vIHdyz8A",
+                "startTime" : [2025,4,1,0,0],
+                "endTime" : [2025,4,20,23,00],
+                "showPublic" : false
             },{
                 "title" : "嵌入式 作业",
                 "time" : "05-30 截止",
@@ -54,6 +47,21 @@
             }
         ],
         "Schedule" : [
+            {
+                "title" : "计算机组成原理 期末考试",
+                "time" : "04-21 时间待定",
+                "info" : "",
+                "startTime" : [2025,4,21,0,0],
+                "endTime" : [2025,4,21,23,59],
+                "showPublic" : false
+            },{
+                "title" : "大学物理实验 期末考试",
+                "time" : "05-07 时间待定",
+                "info" : "",
+                "startTime" : [2025,5,7,0,0],
+                "endTime" : [2025,5,7,23,59],
+                "showPublic" : false
+            }
         ]
 },
     "SettingsInfo" : {
@@ -64,7 +72,7 @@
         "show" : false
     },
      "semesterId" : "294",
-    "TimeStamp" : "04-06 13:18 更新",
+    "TimeStamp" : "04-14 16:59 更新",
     "Labs" : [
         {
             "title" : "大学物理实验(下) 安排",
