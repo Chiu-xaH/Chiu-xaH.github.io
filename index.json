@@ -80,6 +80,11 @@
             "title" : "马院思政云题库",
             "info" : "https://sizhengke.capstone.fun/h5/",
             "type" : "STARTURI"
+        },
+        {
+            "title" : "新版图书馆官网",
+            "info" : "https://lib.hfut.edu.cn/portal/",
+            "type" : "STARTURI"
         }
     ],
     "Notifications" : [
