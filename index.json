@@ -85,6 +85,11 @@
             "title" : "新版图书馆官网",
             "info" : "https://lib.hfut.edu.cn/portal/",
             "type" : "STARTURI"
+        },
+        {
+            "title" : "合肥校区图书馆座位预约(校园网)",
+            "info" : "http://210.45.242.57/",
+            "type" : "STARTURI"
         }
     ],
     "Notifications" : [
