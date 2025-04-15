@@ -75,6 +75,11 @@
     "TimeStamp" : "04-15 12:04 更新",
     "Labs" : [
         {
+            "title" : "步道乐跑 体测平台\n最近要上传照片 需接入校园网",
+            "info" : "https://bdlp.hfut.edu.cn",
+            "type" : "STARTURI"
+        },
+        {
             "title" : "23级计科&智能科 编译原理 上机安排",
             "info" : "https://sm.ms/image/ZSwmcI794BgzXMQ",
             "type" : "STARTURI"
@@ -100,7 +105,7 @@
             "type" : "STARTURI"
         },
         {
-            "title" : "合肥校区图书馆座位预约(校园网)",
+            "title" : "合肥校区图书馆座位预约(需接入校园网)",
             "info" : "http://210.45.242.57/",
             "type" : "STARTURI"
         }
