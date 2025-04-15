@@ -72,8 +72,13 @@
         "show" : false
     },
      "semesterId" : "294",
-    "TimeStamp" : "04-14 16:59 更新",
+    "TimeStamp" : "04-15 12:04 更新",
     "Labs" : [
+        {
+            "title" : "23级计科&智能科 编译原理 上机安排",
+            "info" : "https://sm.ms/image/ZSwmcI794BgzXMQ",
+            "type" : "STARTURI"
+        },
         {
             "title" : "大学物理实验(下) 安排",
             "info" : "https://sm.ms/image/1lhIAiRom4FPrHU",
