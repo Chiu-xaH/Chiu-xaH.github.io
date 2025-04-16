@@ -69,7 +69,7 @@
     "Labs" : [
         {
             "title" : "步道乐跑 体测平台\n最近要上传照片 需接入校园网",
-            "info" : "https://bdlp.hfut.edu.cn",
+            "info" : "https://bdlp.hfut.edu.cn/bdlp_h5_fitness_test/public/index.php/index/login/hfutLogin",
             "type" : "STARTURI"
         },
         {
