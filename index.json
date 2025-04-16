@@ -17,6 +17,13 @@
                 "endTime" : [2025,4,21,17,0],
                 "showPublic" : true
             },{
+                "title" : "机器学习 第二次作业",
+                "time" : "04-29 23:59 截止",
+                "info" : "神经网络",
+                "startTime" : [2025,4,6,0,0],
+                "endTime" : [2025,4,29,23,59],
+                "showPublic" : false
+            },{
                 "title" : "视听说4 Unit3",
                 "time" : "05-04 截止",
                 "info" : "U校园",
