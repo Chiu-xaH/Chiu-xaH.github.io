@@ -5,7 +5,7 @@
         "type": null,
         "requireInfo": {
             "requiredSubModuleNum": 3,
-            "requiredCredits": 164.5,
+            "requiredCredits": 165.5,
             "requiredCourseNum": 0
         },
         "reference": null,
@@ -24,7 +24,7 @@
                 },
                 "requireInfo": {
                     "requiredSubModuleNum": 2,
-                    "requiredCredits": 45.5,
+                    "requiredCredits": 46.5,
                     "requiredCourseNum": 0
                 },
                 "reference": null,
@@ -43,8 +43,8 @@
                         },
                         "requireInfo": {
                             "requiredSubModuleNum": 0,
-                            "requiredCredits": 35.5,
-                            "requiredCourseNum": 27
+                            "requiredCredits": 36.5,
+                            "requiredCourseNum": 28
                         },
                         "reference": null,
                         "copy": null,
@@ -1511,6 +1511,58 @@
                                     "designUnit": null,
                                     "requireDesign": null,
                                     "periodsPerWeek": 6.0
+                                },
+                                "marks": []
+                            },
+                            {
+                                "compulsory": true,
+                                "remark": null,
+                                "openDepartment": {
+                                    "id": 178,
+                                    "code": "118",
+                                    "nameZh": "马克思主义学院",
+                                    "nameEn": "School of Marxism"
+                                },
+                                "terms": [
+                                    "TERM_1"
+                                ],
+                                "suggestTerms": [],
+                                "course": {
+                                    "id": 25813,
+                                    "code": "1200191B",
+                                    "nameZh": "大学生国家安全教育",
+                                    "nameEn": "National Security Education for College Students",
+                                    "credits": 1.0,
+                                    "courseType": {
+                                        "id": 1,
+                                        "code": "1B",
+                                        "nameZh": "通识必修课",
+                                        "nameEn": null
+                                    }
+                                },
+                                "indications": [],
+                                "periodInfo": {
+                                    "total": 16.0,
+                                    "weeks": 2,
+                                    "theory": 16.0,
+                                    "theoryUnit": "HOUR",
+                                    "requireTheory": 16.0,
+                                    "practice": null,
+                                    "practiceUnit": null,
+                                    "requirePractice": null,
+                                    "test": null,
+                                    "testUnit": null,
+                                    "requireTest": null,
+                                    "experiment": null,
+                                    "experimentUnit": null,
+                                    "requireExperiment": null,
+                                    "machine": null,
+                                    "machineUnit": null,
+                                    "requireMachine": null,
+                                    "design": null,
+                                    "designUnit": null,
+                                    "requireDesign": null,
+                                    "periodsPerWeek": 8.0
                                 },
                                 "marks": []
                             }

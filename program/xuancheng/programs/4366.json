@@ -5,7 +5,7 @@
         "type": null,
         "requireInfo": {
             "requiredSubModuleNum": 0,
-            "requiredCredits": 165.0,
+            "requiredCredits": 166.0,
             "requiredCourseNum": 0
         },
         "reference": null,
@@ -24,7 +24,7 @@
                 },
                 "requireInfo": {
                     "requiredSubModuleNum": 2,
-                    "requiredCredits": 45.5,
+                    "requiredCredits": 46.5,
                     "requiredCourseNum": 0
                 },
                 "reference": null,
@@ -43,8 +43,8 @@
                         },
                         "requireInfo": {
                             "requiredSubModuleNum": 0,
-                            "requiredCredits": 35.5,
-                            "requiredCourseNum": 27
+                            "requiredCredits": 36.5,
+                            "requiredCourseNum": 28
                         },
                         "reference": null,
                         "copy": null,
@@ -1573,6 +1573,60 @@
                                     "designUnit": null,
                                     "requireDesign": null,
                                     "periodsPerWeek": 4.0
+                                },
+                                "marks": []
+                            },
+                            {
+                                "compulsory": true,
+                                "remark": null,
+                                "openDepartment": {
+                                    "id": 178,
+                                    "code": "118",
+                                    "nameZh": "马克思主义学院",
+                                    "nameEn": "School of Marxism"
+                                },
+                                "terms": [
+                                    "TERM_1"
+                                ],
+                                "suggestTerms": [
+                                    "TERM_1"
+                                ],
+                                "course": {
+                                    "id": 25813,
+                                    "code": "1200191B",
+                                    "nameZh": "大学生国家安全教育",
+                                    "nameEn": "National Security Education for College Students",
+                                    "credits": 1.0,
+                                    "courseType": {
+                                        "id": 1,
+                                        "code": "1B",
+                                        "nameZh": "通识必修课",
+                                        "nameEn": null
+                                    }
+                                },
+                                "indications": [],
+                                "periodInfo": {
+                                    "total": 16.0,
+                                    "weeks": 2,
+                                    "theory": 16.0,
+                                    "theoryUnit": "HOUR",
+                                    "requireTheory": 16.0,
+                                    "practice": null,
+                                    "practiceUnit": null,
+                                    "requirePractice": null,
+                                    "test": null,
+                                    "testUnit": null,
+                                    "requireTest": null,
+                                    "experiment": null,
+                                    "experimentUnit": null,
+                                    "requireExperiment": null,
+                                    "machine": null,
+                                    "machineUnit": null,
+                                    "requireMachine": null,
+                                    "design": null,
+                                    "designUnit": null,
+                                    "requireDesign": null,
+                                    "periodsPerWeek": 8.0
                                 },
                                 "marks": []
                             }
@@ -34607,60 +34661,6 @@
                                 "marks": []
                             },
                             {
-                                "compulsory": false,
-                                "remark": null,
-                                "openDepartment": {
-                                    "id": 172,
-                                    "code": "119",
-                                    "nameZh": "经济学院",
-                                    "nameEn": "School of Economics"
-                                },
-                                "terms": [
-                                    "TERM_3"
-                                ],
-                                "suggestTerms": [
-                                    "TERM_3"
-                                ],
-                                "course": {
-                                    "id": 24676,
-                                    "code": "1810053B",
-                                    "nameZh": "社会经济调查理论与方法",
-                                    "nameEn": "Social Economic Surveys: Theory and Methodology",
-                                    "credits": 2.0,
-                                    "courseType": {
-                                        "id": 3,
-                                        "code": "3B",
-                                        "nameZh": "实践环节",
-                                        "nameEn": null
-                                    }
-                                },
-                                "indications": [],
-                                "periodInfo": {
-                                    "total": 48.0,
-                                    "weeks": 2,
-                                    "theory": null,
-                                    "theoryUnit": null,
-                                    "requireTheory": null,
-                                    "practice": null,
-                                    "practiceUnit": null,
-                                    "requirePractice": null,
-                                    "test": null,
-                                    "testUnit": null,
-                                    "requireTest": null,
-                                    "experiment": 48.0,
-                                    "experimentUnit": "HOUR",
-                                    "requireExperiment": 48.0,
-                                    "machine": null,
-                                    "machineUnit": null,
-                                    "requireMachine": null,
-                                    "design": null,
-                                    "designUnit": null,
-                                    "requireDesign": null,
-                                    "periodsPerWeek": 24.0
-                                },
-                                "marks": []
-                            },
-                            {
                                 "compulsory": true,
                                 "remark": "限选，不计入总学分",
                                 "openDepartment": {
@@ -34698,6 +34698,60 @@
                                     "practice": null,
                                     "practiceUnit": null,
                                     "requirePractice": null,
+                                    "test": null,
+                                    "testUnit": null,
+                                    "requireTest": null,
+                                    "experiment": null,
+                                    "experimentUnit": null,
+                                    "requireExperiment": null,
+                                    "machine": null,
+                                    "machineUnit": null,
+                                    "requireMachine": null,
+                                    "design": null,
+                                    "designUnit": null,
+                                    "requireDesign": null,
+                                    "periodsPerWeek": 24.0
+                                },
+                                "marks": []
+                            },
+                            {
+                                "compulsory": false,
+                                "remark": "增加实践课比重，强化与企业合作，促进产教融合，进一步提升课程两性一度。",
+                                "openDepartment": {
+                                    "id": 172,
+                                    "code": "119",
+                                    "nameZh": "经济学院",
+                                    "nameEn": "School of Economics"
+                                },
+                                "terms": [
+                                    "TERM_3"
+                                ],
+                                "suggestTerms": [
+                                    "TERM_3"
+                                ],
+                                "course": {
+                                    "id": 20806,
+                                    "code": "1819853B",
+                                    "nameZh": "社会经济调查理论与方法课程设计",
+                                    "nameEn": "Curriculum Design of Social Economic Surveys: Theory and Methodology",
+                                    "credits": 2.0,
+                                    "courseType": {
+                                        "id": 3,
+                                        "code": "3B",
+                                        "nameZh": "实践环节",
+                                        "nameEn": null
+                                    }
+                                },
+                                "indications": [],
+                                "periodInfo": {
+                                    "total": 48.0,
+                                    "weeks": 2,
+                                    "theory": null,
+                                    "theoryUnit": null,
+                                    "requireTheory": null,
+                                    "practice": 48.0,
+                                    "practiceUnit": "HOUR",
+                                    "requirePractice": 48.0,
                                     "test": null,
                                     "testUnit": null,
                                     "requireTest": null,
