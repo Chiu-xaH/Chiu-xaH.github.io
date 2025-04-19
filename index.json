@@ -38,11 +38,19 @@
                 "endTime" : [2025,5,2,22,0],
                 "showPublic" : true
             },{
+                "title" : "嵌入式 第四章课后作业",
+                "time" : "04-18 ~ 04-25",
+                "info" : "超星学习通",
+                "startTime" : [2025,4,18,23,57],
+                "endTime" : [2025,4,25,23,0],
+                "showPublic" : false
+            }
+            ,{
                 "title" : "计算机组成原理 实验报告3",
-                "time" : "04-20 23:00 截止",
+                "time" : "04-25 23:00 截止",
                 "info" : "https://send2me.cn/_7xOPg5r/So2yn6vIHdyz8A",
                 "startTime" : [2025,4,1,0,0],
-                "endTime" : [2025,4,20,23,0],
+                "endTime" : [2025,4,25,23,0],
                 "showPublic" : false
             },{
                 "title" : "嵌入式 作业",
