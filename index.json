@@ -19,7 +19,14 @@
             }
         ],
         "Schedule" : [
-            
+            {
+                "title" : "调休安排",
+                "time" : "04-27 周日",
+                "info" : "上 第11周周一 的课程",
+                "startTime" : [2025,4,27,8,0],
+                "endTime" : [2025,4,27,21,50],
+                "showPublic" : true
+            }
         ]
 },
     "SettingsInfo" : {
