@@ -17,11 +17,11 @@
         "version" : "请更新",
         "title" : "重要通告",
         "info"  : "Hello",
-        "celebration" : false,
+        "celebration" : true,
         "show" : false
     },
-     "semesterId" : "294",
-    "TimeStamp" : "四月对我好一点😵致敬传奇期中周",
+    "semesterId" : "294",
+    "TimeStamp" : "假期快乐",
     "Labs" : [
         {
             "title" : "23级计科&智能科 编译原理 上机安排",
@@ -45,18 +45,6 @@
             "info" : "由于慧新易校方面问题，一卡通账单搜索、月统计、范围支出均获取不到数据源，目前暂不可用",
             "remark" : "02-10",
             "id" : 1,
-            "url" : null
-        },{
-            "title" : "温馨提示",
-            "info" : "华为用户如果有APP出现问题的地方，可以反馈上来，由于国内对Android的深度魔改，以及华为坚持以Android 12定制Harmony OS，似乎容易出现一些奇怪的问题",
-            "remark" : "04-07",
-            "id" : 2,
-            "url" : null
-        },{
-            "title" : "功能提示",
-            "info" : "转专业用户在4.15及以上版本，已支持切换聚焦界面的数据源，位于选项-应用行为-默认课程表，切换为'教务'数据源即可",
-            "remark" : "04-13",
-            "id" : 3,
             "url" : null
         }
     ],
