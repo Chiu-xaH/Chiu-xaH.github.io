@@ -17,11 +17,11 @@
         "version" : "请更新",
         "title" : "重要通告",
         "info"  : "Hello",
-        "celebration" : true,
+        "celebration" : false,
         "show" : false
     },
     "semesterId" : "294",
-    "TimeStamp" : "假期快乐",
+    "TimeStamp" : "05-05 14:37 更新",
     "Labs" : [
         {
             "title" : "23级计科&智能科 编译原理 上机安排",
