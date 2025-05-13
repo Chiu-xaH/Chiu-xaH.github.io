@@ -46,6 +46,13 @@
             "remark" : "02-10",
             "id" : 1,
             "url" : null
+        },
+        {
+            "title" : "通知",
+            "info" : "若有较高意愿适配合肥校区特定功能(登录校园网、寝室评分等)的用户，并对抓包熟悉，可在issue或邮箱提供保留关键信息的HAR文件",
+            "remark" : "05-13",
+            "id" : 2,
+            "url" : "https://github.com/Chiu-xaH/HFUT-Schedule/issues"
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/eG5BEfPy4RCWQdj",
