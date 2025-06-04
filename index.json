@@ -15,13 +15,13 @@
 },
     "SettingsInfo" : {
         "version" : "请更新",
-        "title" : "重要通告",
-        "info"  : "Hello",
+        "title" : "青春永不散场",
+        "info"  : "祝2025届毕业生前程似锦🎉",
         "celebration" : false,
         "show" : false
     },
     "semesterId" : "294",
-    "TimeStamp" : "05-05 14:37 更新",
+    "TimeStamp" : "06-04 09:18 更新",
     "Labs" : [
         {
             "title" : "23级计科&智能科 编译原理 上机安排",
