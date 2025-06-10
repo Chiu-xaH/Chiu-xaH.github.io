@@ -5,7 +5,7 @@
         "type": null,
         "requireInfo": {
             "requiredSubModuleNum": 3,
-            "requiredCredits": 166.0,
+            "requiredCredits": 168.0,
             "requiredCourseNum": 0
         },
         "reference": null,
@@ -32253,7 +32253,7 @@
                 },
                 "requireInfo": {
                     "requiredSubModuleNum": 2,
-                    "requiredCredits": 71.0,
+                    "requiredCredits": 73.0,
                     "requiredCourseNum": 0
                 },
                 "reference": null,
@@ -32272,8 +32272,8 @@
                         },
                         "requireInfo": {
                             "requiredSubModuleNum": 0,
-                            "requiredCredits": 39.0,
-                            "requiredCourseNum": 14
+                            "requiredCredits": 41.0,
+                            "requiredCourseNum": 15
                         },
                         "reference": null,
                         "copy": null,
@@ -33006,6 +33006,60 @@
                                     "designUnit": null,
                                     "requireDesign": null,
                                     "periodsPerWeek": 24.0
+                                },
+                                "marks": []
+                            },
+                            {
+                                "compulsory": true,
+                                "remark": "新增《人工智能通识基础》专业必修课程",
+                                "openDepartment": {
+                                    "id": 180,
+                                    "code": "101",
+                                    "nameZh": "机械工程学院",
+                                    "nameEn": "School of Mechanical Engineering"
+                                },
+                                "terms": [
+                                    "TERM_2"
+                                ],
+                                "suggestTerms": [
+                                    "TERM_2"
+                                ],
+                                "course": {
+                                    "id": 26067,
+                                    "code": "0200172B",
+                                    "nameZh": "人工智能通识基础",
+                                    "nameEn": "Foundations of General Education in Artificial Intelligence",
+                                    "credits": 2.0,
+                                    "courseType": {
+                                        "id": 2,
+                                        "code": "2B",
+                                        "nameZh": "学科基础和专业必修课",
+                                        "nameEn": null
+                                    }
+                                },
+                                "indications": [],
+                                "periodInfo": {
+                                    "total": 32.0,
+                                    "weeks": 8,
+                                    "theory": 24.0,
+                                    "theoryUnit": "HOUR",
+                                    "requireTheory": 24.0,
+                                    "practice": null,
+                                    "practiceUnit": null,
+                                    "requirePractice": null,
+                                    "test": null,
+                                    "testUnit": null,
+                                    "requireTest": null,
+                                    "experiment": null,
+                                    "experimentUnit": null,
+                                    "requireExperiment": null,
+                                    "machine": 8.0,
+                                    "machineUnit": "HOUR",
+                                    "requireMachine": 8.0,
+                                    "design": null,
+                                    "designUnit": null,
+                                    "requireDesign": null,
+                                    "periodsPerWeek": 4.0
                                 },
                                 "marks": []
                             }

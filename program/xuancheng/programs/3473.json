@@ -37323,7 +37323,7 @@
                         "marks": []
                     },
                     {
-                        "compulsory": false,
+                        "compulsory": true,
                         "remark": null,
                         "openDepartment": {
                             "id": 169,
@@ -37352,9 +37352,9 @@
                         "periodInfo": {
                             "total": 32.0,
                             "weeks": 8,
-                            "theory": null,
-                            "theoryUnit": null,
-                            "requireTheory": null,
+                            "theory": 32.0,
+                            "theoryUnit": "HOUR",
+                            "requireTheory": 32.0,
                             "practice": null,
                             "practiceUnit": null,
                             "requirePractice": null,
@@ -38608,7 +38608,7 @@
                             "id": 21504,
                             "code": "1180710X",
                             "nameZh": "财务管理",
-                            "nameEn": "Corporate Financing ",
+                            "nameEn": "Corporate Financing",
                             "credits": 2.0,
                             "courseType": {
                                 "id": 5,

@@ -5,7 +5,7 @@
         "type": null,
         "requireInfo": {
             "requiredSubModuleNum": 3,
-            "requiredCredits": 166.0,
+            "requiredCredits": 165.0,
             "requiredCourseNum": 0
         },
         "reference": null,
@@ -31558,8 +31558,8 @@
                 },
                 "requireInfo": {
                     "requiredSubModuleNum": 0,
-                    "requiredCredits": 38.5,
-                    "requiredCourseNum": 14
+                    "requiredCredits": 37.5,
+                    "requiredCourseNum": 13
                 },
                 "reference": null,
                 "copy": null,
@@ -31612,58 +31612,6 @@
                             "machine": null,
                             "machineUnit": null,
                             "requireMachine": null,
-                            "design": null,
-                            "designUnit": null,
-                            "requireDesign": null,
-                            "periodsPerWeek": 4.0
-                        },
-                        "marks": []
-                    },
-                    {
-                        "compulsory": true,
-                        "remark": null,
-                        "openDepartment": {
-                            "id": 166,
-                            "code": "104",
-                            "nameZh": "计算机与信息学院（人工智能学院）",
-                            "nameEn": "School of Computer science and Information Engineering"
-                        },
-                        "terms": [
-                            "TERM_1"
-                        ],
-                        "suggestTerms": [],
-                        "course": {
-                            "id": 2466,
-                            "code": "0500011B",
-                            "nameZh": "大学计算机基础",
-                            "nameEn": "Basis of College Computer",
-                            "credits": 1.0,
-                            "courseType": {
-                                "id": 1,
-                                "code": "1B",
-                                "nameZh": "通识必修课",
-                                "nameEn": null
-                            }
-                        },
-                        "indications": [],
-                        "periodInfo": {
-                            "total": 24.0,
-                            "weeks": 3,
-                            "theory": 12.0,
-                            "theoryUnit": "HOUR",
-                            "requireTheory": 12.0,
-                            "practice": null,
-                            "practiceUnit": null,
-                            "requirePractice": null,
-                            "test": null,
-                            "testUnit": null,
-                            "requireTest": null,
-                            "experiment": null,
-                            "experimentUnit": null,
-                            "requireExperiment": null,
-                            "machine": 12.0,
-                            "machineUnit": "HOUR",
-                            "requireMachine": 12.0,
                             "design": null,
                             "designUnit": null,
                             "requireDesign": null,
@@ -31820,58 +31768,6 @@
                             "machine": null,
                             "machineUnit": null,
                             "requireMachine": null,
-                            "design": null,
-                            "designUnit": null,
-                            "requireDesign": null,
-                            "periodsPerWeek": 4.0
-                        },
-                        "marks": []
-                    },
-                    {
-                        "compulsory": true,
-                        "remark": null,
-                        "openDepartment": {
-                            "id": 166,
-                            "code": "104",
-                            "nameZh": "计算机与信息学院（人工智能学院）",
-                            "nameEn": "School of Computer science and Information Engineering"
-                        },
-                        "terms": [
-                            "TERM_2"
-                        ],
-                        "suggestTerms": [],
-                        "course": {
-                            "id": 3251,
-                            "code": "0500101B",
-                            "nameZh": "C/C++语言程序设计",
-                            "nameEn": "C / C ++ Language Program Design",
-                            "credits": 3.0,
-                            "courseType": {
-                                "id": 1,
-                                "code": "1B",
-                                "nameZh": "通识必修课",
-                                "nameEn": null
-                            }
-                        },
-                        "indications": [],
-                        "periodInfo": {
-                            "total": 48.0,
-                            "weeks": 12,
-                            "theory": 24.0,
-                            "theoryUnit": "HOUR",
-                            "requireTheory": 24.0,
-                            "practice": null,
-                            "practiceUnit": null,
-                            "requirePractice": null,
-                            "test": null,
-                            "testUnit": null,
-                            "requireTest": null,
-                            "experiment": null,
-                            "experimentUnit": null,
-                            "requireExperiment": null,
-                            "machine": 24.0,
-                            "machineUnit": "HOUR",
-                            "requireMachine": 24.0,
                             "design": null,
                             "designUnit": null,
                             "requireDesign": null,
@@ -32292,6 +32188,60 @@
                             "designUnit": null,
                             "requireDesign": null,
                             "periodsPerWeek": 2.0
+                        },
+                        "marks": []
+                    },
+                    {
+                        "compulsory": true,
+                        "remark": null,
+                        "openDepartment": {
+                            "id": 164,
+                            "code": "102",
+                            "nameZh": "电气与自动化工程学院",
+                            "nameEn": "School of Electric Engineering and Automation "
+                        },
+                        "terms": [
+                            "TERM_2"
+                        ],
+                        "suggestTerms": [
+                            "TERM_2"
+                        ],
+                        "course": {
+                            "id": 25926,
+                            "code": "0400202B",
+                            "nameZh": "计算机程序设计基础",
+                            "nameEn": "Fundamentals of Computer Programming",
+                            "credits": 3.0,
+                            "courseType": {
+                                "id": 2,
+                                "code": "2B",
+                                "nameZh": "学科基础和专业必修课",
+                                "nameEn": null
+                            }
+                        },
+                        "indications": [],
+                        "periodInfo": {
+                            "total": 48.0,
+                            "weeks": 6,
+                            "theory": 24.0,
+                            "theoryUnit": "HOUR",
+                            "requireTheory": 24.0,
+                            "practice": null,
+                            "practiceUnit": null,
+                            "requirePractice": null,
+                            "test": null,
+                            "testUnit": null,
+                            "requireTest": null,
+                            "experiment": null,
+                            "experimentUnit": null,
+                            "requireExperiment": null,
+                            "machine": 24.0,
+                            "machineUnit": "HOUR",
+                            "requireMachine": 24.0,
+                            "design": null,
+                            "designUnit": null,
+                            "requireDesign": null,
+                            "periodsPerWeek": 4.0
                         },
                         "marks": []
                     }
@@ -33790,9 +33740,11 @@
                                             "nameEn": "School of Electric Engineering and Automation "
                                         },
                                         "terms": [
-                                            "TERM_7"
+                                            "TERM_5"
                                         ],
-                                        "suggestTerms": [],
+                                        "suggestTerms": [
+                                            "TERM_5"
+                                        ],
                                         "course": {
                                             "id": 16836,
                                             "code": "0440090X",
@@ -34476,6 +34428,60 @@
                                             "periodsPerWeek": 4.0
                                         },
                                         "marks": []
+                                    },
+                                    {
+                                        "compulsory": false,
+                                        "remark": null,
+                                        "openDepartment": {
+                                            "id": 164,
+                                            "code": "102",
+                                            "nameZh": "电气与自动化工程学院",
+                                            "nameEn": "School of Electric Engineering and Automation "
+                                        },
+                                        "terms": [
+                                            "TERM_6"
+                                        ],
+                                        "suggestTerms": [
+                                            "TERM_6"
+                                        ],
+                                        "course": {
+                                            "id": 2381,
+                                            "code": "0420140X",
+                                            "nameZh": "电力系统继电保护",
+                                            "nameEn": "Relay Protection of Power System",
+                                            "credits": 3.0,
+                                            "courseType": {
+                                                "id": 5,
+                                                "code": "0X",
+                                                "nameZh": "各专业选修课",
+                                                "nameEn": "gzyxxk"
+                                            }
+                                        },
+                                        "indications": [],
+                                        "periodInfo": {
+                                            "total": 48.0,
+                                            "weeks": 12,
+                                            "theory": 48.0,
+                                            "theoryUnit": "HOUR",
+                                            "requireTheory": 48.0,
+                                            "practice": null,
+                                            "practiceUnit": null,
+                                            "requirePractice": null,
+                                            "test": null,
+                                            "testUnit": null,
+                                            "requireTest": null,
+                                            "experiment": null,
+                                            "experimentUnit": null,
+                                            "requireExperiment": null,
+                                            "machine": null,
+                                            "machineUnit": null,
+                                            "requireMachine": null,
+                                            "design": null,
+                                            "designUnit": null,
+                                            "requireDesign": null,
+                                            "periodsPerWeek": 4.0
+                                        },
+                                        "marks": []
                                     }
                                 ],
                                 "children": []
@@ -34800,6 +34806,60 @@
                                             "experiment": null,
                                             "experimentUnit": null,
                                             "requireExperiment": null,
+                                            "machine": null,
+                                            "machineUnit": null,
+                                            "requireMachine": null,
+                                            "design": null,
+                                            "designUnit": null,
+                                            "requireDesign": null,
+                                            "periodsPerWeek": 24.0
+                                        },
+                                        "marks": []
+                                    },
+                                    {
+                                        "compulsory": false,
+                                        "remark": null,
+                                        "openDepartment": {
+                                            "id": 164,
+                                            "code": "102",
+                                            "nameZh": "电气与自动化工程学院",
+                                            "nameEn": "School of Electric Engineering and Automation "
+                                        },
+                                        "terms": [
+                                            "TERM_6"
+                                        ],
+                                        "suggestTerms": [
+                                            "TERM_6"
+                                        ],
+                                        "course": {
+                                            "id": 26046,
+                                            "code": "0420453B",
+                                            "nameZh": "“人工智能+”电气设计与应用",
+                                            "nameEn": "AI in Electrical Engineering Design and Applications",
+                                            "credits": 1.0,
+                                            "courseType": {
+                                                "id": 3,
+                                                "code": "3B",
+                                                "nameZh": "实践环节",
+                                                "nameEn": null
+                                            }
+                                        },
+                                        "indications": [],
+                                        "periodInfo": {
+                                            "total": 24.0,
+                                            "weeks": 1,
+                                            "theory": null,
+                                            "theoryUnit": null,
+                                            "requireTheory": null,
+                                            "practice": null,
+                                            "practiceUnit": null,
+                                            "requirePractice": null,
+                                            "test": null,
+                                            "testUnit": null,
+                                            "requireTest": null,
+                                            "experiment": 24.0,
+                                            "experimentUnit": "HOUR",
+                                            "requireExperiment": 24.0,
                                             "machine": null,
                                             "machineUnit": null,
                                             "requireMachine": null,
