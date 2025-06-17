@@ -41,6 +41,13 @@
             "remark" : "02-10",
             "id" : 1,
             "url" : null
+        },
+        {
+            "title" : "停更通知",
+            "info" : "学校的批事实在是太多了，今天一个报告明天一个课设后天一个考试，每天都在做不喜欢的事情，忙的毫无收获，下次更新要延期😅...",
+            "remark" : "06-17",
+            "id" : 2,
+            "url" : null
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/UrpbfmvaqOoMzKW",
