@@ -28,6 +28,13 @@
         }
     ],
     "Notifications" : [
+        {
+            "title" : "通知",
+            "info" : "这边弹出了共建平台发送注册邮件失败的消息：不存在邮箱...应该是还未用过校园邮箱，收不到邮件，先去信息门户把自己邮箱激活再去试即可",
+            "remark" : "06-24",
+            "id" : 1,
+            "url" : null
+        }
     ],
     "SchoolCalendar" : "https://sm.ms/image/UrpbfmvaqOoMzKW",
     "Next" : false,
