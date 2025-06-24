@@ -34,6 +34,13 @@
             "remark" : "06-24",
             "id" : 1,
             "url" : null
+        },
+        {
+            "title" : "功能不可用通知",
+            "info" : "近期肥区选课，培养方案完成情况被暂时关闭了，教师检索也炸了(faculty.hfut.edu.cn)，暂时无法检索教师",
+            "remark" : "06-24",
+            "id" : 2,
+            "url" : null
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/UrpbfmvaqOoMzKW",
