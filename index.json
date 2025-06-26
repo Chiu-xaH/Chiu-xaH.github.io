@@ -8,10 +8,10 @@
 },
     "SettingsInfo" : {
         "version" : "请更新",
-        "title" : "",
-        "info"  : "",
+        "title" : "推迟更新",
+        "info"  : "本周的更新推迟，07-03后恢复正常频率",
         "celebration" : false,
-        "show" : false
+        "show" : true
     },
     "semesterId" : "294",
     "TimeStamp" : "2025-06-22 19:12 更新",
