@@ -49,6 +49,12 @@
             "remark" : "06-24",
             "id" : 2,
             "url" : null
+        },{
+            "title" : "登录通知",
+            "info" : "近期似乎需要图片验证码才能刷新登录状态了，云控已经启用验证码，也可以自己在登录界面调整",
+            "remark" : "06-30",
+            "id" : 3,
+            "url" : null
         }
     ],
     "SchoolCalendar" : "https://s2.loli.net/2025/06/15/UrpbfmvaqOoMzKW.jpg",
