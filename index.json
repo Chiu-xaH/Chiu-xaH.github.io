@@ -55,6 +55,6 @@
     "Next" : false,
     "API" : "http://115.120.209.236/",
     "useNewAPI" : false,
-    "useCaptcha" : false,
+    "useCaptcha" : true,
     "startDay" : "2025-02-23"
 }
