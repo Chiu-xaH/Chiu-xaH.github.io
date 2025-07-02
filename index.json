@@ -61,6 +61,12 @@
             "remark" : "07-01",
             "id" : 4,
             "url" : null
+        },{
+            "title" : "功能异常通知",
+            "info" : "呱呱物联无法使用，是因为HOST被换了，现在是https://bathing.hfut.edu.cn/，下一版本修复即可",
+            "remark" : "07-03",
+            "id" : 5,
+            "url" : null
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/6QM31TLD9CYJy5R",
