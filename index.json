@@ -45,7 +45,7 @@
         },
         {
             "title" : "功能不可用通知",
-            "info" : "近期培养方案完成情况被暂时关闭了，教师检索也炸了(faculty.hfut.edu.cn)，暂时无法检索教师",
+            "info" : "教师检索炸了(faculty.hfut.edu.cn)，暂时无法检索教师",
             "remark" : "06-24",
             "id" : 2,
             "url" : null
@@ -62,11 +62,11 @@
             "id" : 5,
             "url" : null
         },{
-            "title" : "宣城校区选课通知",
-            "info" : "注意周一07-07的第一轮选课，日程已挂在共建平台",
-            "remark" : "07-06",
+            "title" : "转专业申报通知",
+            "info" : "注意合肥校区07-14、宣城校区07-21的24级转专业申报，具体要求已挂网于 查询中心-通知公告，点击也可查看",
+            "remark" : "07-11",
             "id" : 6,
-            "url" : null
+            "url" : "http://jwc.hfut.edu.cn/info/1249/5181.htm"
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/6QM31TLD9CYJy5R",
