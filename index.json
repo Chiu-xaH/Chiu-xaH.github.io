@@ -8,13 +8,13 @@
 },
     "SettingsInfo" : {
         "version" : "请更新",
-        "title" : "更新公告",
-        "info"  : "近期用户量激增，为了更好的使用体验，目前正在对已经对早期的登录逻辑进行重构，大家先忍一下，更稳定的版本要来了🚀",
-        "celebration" : false,
-        "show" : false
+        "title" : "暑期",
+        "info"  : "长假😋",
+        "celebration" : true,
+        "show" : true
     },
     "semesterId" : "294",
-    "TimeStamp" : "2025-07-11 02:09 更新",
+    "TimeStamp" : "暑假快乐",
     "Labs" : [
         {
             "title" : "选修课程调研(其他同学写的,只转载供参考)\n应用内无法打开就点右上角浏览器打开",
