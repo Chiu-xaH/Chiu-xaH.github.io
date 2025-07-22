@@ -13,7 +13,7 @@
         "celebration" : false,
         "show" : false
     },
-    "semesterId" : "294",
+    "semesterId" : "314",
     "TimeStamp" : "暑期快乐 😋",
     "Labs" : [
         {
@@ -41,12 +41,6 @@
             "remark" : "06-24",
             "id" : 2,
             "url" : null
-        },{
-            "title" : "转专业申报通知",
-            "info" : "注意合肥校区07-14、宣城校区07-21的24级转专业申报，具体要求已挂网于 查询中心-通知公告，点击也可查看",
-            "remark" : "07-11",
-            "id" : 6,
-            "url" : "http://jwc.hfut.edu.cn/info/1249/5181.htm"
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/6QM31TLD9CYJy5R",
