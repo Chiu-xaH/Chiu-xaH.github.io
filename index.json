@@ -25,11 +25,6 @@
             "title" : "马院思政云题库",
             "info" : "https://sizhengke.capstone.fun/h5/",
             "type" : "STARTURI"
-        },
-        {
-            "title" : "教师检索",
-            "info" : "http://121.251.19.138/",
-            "type" : "STARTURI"
         }
     ],
     "Notifications" : [
@@ -39,13 +34,6 @@
             "remark" : "06-24",
             "id" : 1,
             "url" : null
-        },
-        {
-            "title" : "功能不可用通知",
-            "info" : "教师检索炸了(faculty.hfut.edu.cn)，现在是http://121.251.19.138/",
-            "remark" : "06-24",
-            "id" : 2,
-            "url" : "http://121.251.19.138/"
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/6QM31TLD9CYJy5R",
