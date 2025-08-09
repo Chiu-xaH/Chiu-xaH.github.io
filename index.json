@@ -34,6 +34,12 @@
             "remark" : "06-24",
             "id" : 1,
             "url" : null
+        },{
+            "title" : "Bug通知",
+            "info" : "发现一卡通相关功能(包括一些生活缴费)功能显示登录状态无效，抓包似乎是对面对Header改了一些手脚，等下一版本(大约在本月12日)修复，但是不影响 查询中心-生活缴费 入口的使用，可以从这里使用相关功能",
+            "remark" : "06-24",
+            "id" : 1,
+            "url" : null
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/6QM31TLD9CYJy5R",
