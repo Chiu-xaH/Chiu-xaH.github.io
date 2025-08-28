@@ -9,7 +9,7 @@
     "SettingsInfo" : {
         "version" : "请更新",
         "title" : "欢迎2025级新生 🍀",
-        "info"  : "欢迎新生使用聚在工大，有任何APP上的问题欢迎提问反馈\n重大Bug: 4.17.3及其以下版本无法登录教务，请更新",
+        "info"  : "欢迎新生使用聚在工大，有任何APP上的问题可提问反馈\n重大Bug: 4.17.3及其以下版本无法登录教务，请更新",
         "celebration" : false,
         "show" : true
     },
@@ -50,6 +50,7 @@
     "useCaptcha" : true,
     "startDay" : "2025-09-08"
 }
+
 
 
 
