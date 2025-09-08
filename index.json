@@ -9,7 +9,7 @@
     "SettingsInfo" : {
         "version" : "请更新",
         "title" : "新学期 新气象",
-        "info"  : "重大Bug: 4.17.3及其以下版本无法登录教务，请更新",
+        "info"  : "开发者09-08下午到学校了，将会修复无法登录的问题，别着急😋\n重大Bug: 4.17.3及其以下版本无法登录教务，请更新",
         "celebration" : false,
         "show" : true
     },
