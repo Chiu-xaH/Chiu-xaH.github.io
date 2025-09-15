@@ -14,7 +14,7 @@
         "show" : true
     },
     "semesterId" : "314",
-    "TimeStamp" : "新学期 新气象",
+    "TimeStamp" : "",
     "Labs" : [
         {
             "title" : "手动下载更新通道(点击后从右侧选浏览器打开)",
