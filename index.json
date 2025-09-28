@@ -46,13 +46,6 @@
             "remark" : "09-14",
             "id" : 1,
             "url" : "https://www.123912.com/s/pIY9-kuCfh"
-        },
-{
-            "title" : "通知",
-            "info" : "空教室功能暂时无法上线，因为信息门户中空教室在开学后仍未显示，接口返回的数据也并未显示教室的状态，有此需求建议去合工大教务公众号查看",
-            "remark" : "09-08",
-            "id" : 2,
-            "url" : null
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/6QM31TLD9CYJy5R",
