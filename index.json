@@ -8,13 +8,13 @@
 },
     "SettingsInfo" : {
         "version" : "请更新",
-        "title" : "4.17.7.3版本用户须知",
+        "title" : "庆祝聚在工大2周年🎉",
         "info"  : "位于4.17.7.3的用户，请阅读此通知，此版本一直显示的是当前为最新版本，已有新的版本发布了，下载更新前往 查询中心-网址导航-实验室 下方将会有一个卡片标为更新通道",
         "celebration" : false,
         "show" : true
     },
     "semesterId" : "314",
-    "TimeStamp" : "",
+    "TimeStamp" : "庆祝聚在工大2周年🎉",
     "Labs" : [
         {
             "title" : "手动下载更新通道(点击后从右侧选浏览器打开)",
@@ -46,13 +46,6 @@
             "remark" : "10-02",
             "id" : 2,
             "url" : null
-        },
-  {
-            "title" : "调休提醒",
-            "info" : "10月11日（星期六）按照原10月8日（星期三）的课表进行上课",
-            "remark" : "09-26",
-            "id" : 3,
-            "url" : "https://xc.hfut.edu.cn//9f/44/c1955a40772/page.htm"
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/6QM31TLD9CYJy5R",
