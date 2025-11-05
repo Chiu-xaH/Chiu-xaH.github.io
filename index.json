@@ -1,15 +1,12 @@
 {
     "Lessons" : {
-        "MyList" : [
-        ],
-        "Schedule" : [
-        
-        ]
-},
+        "MyList" : [],
+        "Schedule" : []
+    },
     "SettingsInfo" : {
         "version" : "请更新",
         "title" : "由于本人考试原因，本周停更至11-11",
-        "info"  : "位于4.17.7.3的用户，此版本有Bug，一直显示当前为最新版本，已有新版本发布了，前往 查询中心-网址导航-实验室 下方将会有一个卡片标为更新通道可下载",
+        "info"  : "",
         "celebration" : false,
         "show" : true
     },
@@ -17,22 +14,19 @@
     "TimeStamp" : "",
     "Labs" : [
         {
-            "title" : "手动下载更新通道(点击后从右侧选浏览器打开)",
-            "info" : "https://www.123912.com/s/pIY9-kuCfh",
-            "type" : "STARTURI"
-        },
-        {
-            "title" : "选修课程调研(其他同学写的,只转载供参考)",
-            "info" : "https://docs.qq.com/sheet/DS2dxU1VEY1BOTXFx",
-            "type" : "STARTURI"
-        },
-        {
             "title" : "马院思政云题库",
             "info" : "https://sizhengke.capstone.fun/h5/",
             "type" : "STARTURI"
         }
     ],
     "Notifications" : [ 
+         {
+            "title" : "4.17.7.3用户须知",
+            "info" : "还有25位在4.17.7.3版本的用户，此版本有Bug，一直显示当前为最新版本，已有新版本发布了，点击此卡片然后用浏览器打开下载",
+            "remark" : "11-05",
+            "id" : 1,
+            "url" : "https://www.123912.com/s/pIY9-kuCfh"
+        }
         {
             "title" : "功能更新",
             "info" : "开发者对图片验证码识别模型进行了训练，准确度提高，无需更新App，前往 选项-应用及配置-配置-图片验证码自动填充，先删除原模型，再重新点击下载即可体验(新用户无需操作，已经是新的模型了)",
@@ -48,6 +42,7 @@
     "useCaptcha" : true,
     "startDay" : "2025-09-08"
 }
+
 
 
 
