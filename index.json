@@ -13,6 +13,11 @@
     "semesterId" : "314",
     "TimeStamp" : "",
     "Labs" : [
+{
+            "title" : "体测补测通知",
+            "info" : "http://tiyu.hfut.edu.cn/info/1052/1978.htm",
+            "type" : "STARTURI"
+        },
         {
             "title" : "马院思政云题库",
             "info" : "https://sizhengke.capstone.fun/h5/",
