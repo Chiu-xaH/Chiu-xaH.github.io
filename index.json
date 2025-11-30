@@ -8,7 +8,7 @@
         "title" : "主观原因，本周暂定停更",
         "info"  : "预告一下，(公众号)合工大教务可以被集成进来了☝️",
         "celebration" : false,
-        "show" : false
+        "show" : true
     },
     "semesterId" : "314",
     "TimeStamp" : "",
@@ -49,6 +49,7 @@
     "useCaptcha" : true,
     "startDay" : "2025-09-08"
 }
+
 
 
 
