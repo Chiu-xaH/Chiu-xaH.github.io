@@ -6,7 +6,7 @@
     "SettingsInfo" : {
         "version" : "请更新",
         "title" : "主观原因，缓慢更新",
-        "info"  : "去实习了，有精力时会继续发更新，还有很多已规划的新功能，敬请期待",
+        "info"  : "去实习了，仍会继续发更新，但会变慢，还有很多已规划的新功能，敬请期待",
         "celebration" : false,
         "show" : true
     },
@@ -49,6 +49,7 @@
     "useCaptcha" : true,
     "startDay" : "2025-09-08"
 }
+
 
 
 
