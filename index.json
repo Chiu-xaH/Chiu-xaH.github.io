@@ -5,8 +5,8 @@
     },
     "SettingsInfo" : {
         "version" : "请更新",
-        "title" : "主观原因，本周暂定停更",
-        "info"  : "预告一下，(公众号)合工大教务可以被集成进来了",
+        "title" : "主观原因，缓慢更新",
+        "info"  : "去实习了，有精力时会继续发更新，还有很多已规划的新功能，敬请期待",
         "celebration" : false,
         "show" : false
     },
@@ -49,6 +49,7 @@
     "useCaptcha" : true,
     "startDay" : "2025-09-08"
 }
+
 
 
 
