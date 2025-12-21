@@ -14,7 +14,7 @@
     "TimeStamp" : "",
     "Labs" : [
         {
-            "title" : "马院思政云题库",
+            "title" : "思政云题库",
             "info" : "https://sizhengke.capstone.fun/h5/",
             "type" : "STARTURI"
         }
@@ -49,6 +49,7 @@
     "useCaptcha" : true,
     "startDay" : "2025-09-08"
 }
+
 
 
 
