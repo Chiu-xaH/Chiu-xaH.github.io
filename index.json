@@ -6,9 +6,9 @@
     "SettingsInfo" : {
         "version" : "请更新",
         "title" : "主观原因，缓慢更新",
-        "info"  : "还有很多规划的新功能，敬请期待！",
+        "info"  : "还有很多规划的新功能，敬请期待",
         "celebration" : false,
-        "show" : false
+        "show" : true
     },
     "semesterId" : "314",
     "TimeStamp" : "",
@@ -49,6 +49,7 @@
     "useCaptcha" : true,
     "startDay" : "2025-09-08"
 }
+
 
 
 
