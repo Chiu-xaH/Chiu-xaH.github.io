@@ -4,7 +4,7 @@
         "Schedule" : []
     },
     "SettingsInfo" : {
-        "version" : "版本过旧，请更新",
+        "version" : "请更新",
         "title" : "主观原因，缓慢更新",
         "info"  : "还有很多规划好的新功能，敬请期待",
         "celebration" : false,
@@ -49,6 +49,7 @@
     "useCaptcha" : true,
     "startDay" : "2025-09-08"
 }
+
 
 
 
