@@ -7,7 +7,7 @@
         "version" : "请更新",
         "title" : "Hello, 2026",
         "info"  : "",
-        "celebration" : false,
+        "celebration" : true,
         "show" : true
     },
     "semesterId" : "314",
