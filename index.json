@@ -24,7 +24,7 @@
             "title" : "已知Bug",
             "info" : "桌面小组件由于各自系统差异，显示效果有很大不同，待修复，目前已知ColorOS和HyperOS显示正常，OriginOS显示有白色异物遮挡，HarmonyOS(基于安卓)显示图标反色异常",
             "remark" : "11-19",
-            "id" : 0,
+            "id" : 1,
             "url" : null
         },
          {
@@ -49,6 +49,7 @@
     "useCaptcha" : true,
     "startDay" : "2025-09-08"
 }
+
 
 
 
