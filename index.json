@@ -44,11 +44,12 @@
     ],
     "SchoolCalendar" : "https://sm.ms/image/6QM31TLD9CYJy5R",
     "Next" : false,
-    "API" : "http://115.120.209.236/",
+    "API" : "http://www.xah.com/",
     "useNewAPI" : false,
     "useCaptcha" : true,
     "startDay" : "2025-09-08"
 }
+
 
 
 
