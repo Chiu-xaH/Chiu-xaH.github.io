@@ -21,6 +21,13 @@
     ],
     "Notifications" : [ 
         {
+            "title" : "Bug修复通知",
+            "info" : "评教失败的问题已在最新版本4.19.2.1修复，请有需求的用户升级",
+            "remark" : "01-08",
+            "id" : 1,
+            "url" : null
+        },
+        {
             "title" : "已知Bug",
             "info" : "桌面小组件由于各自系统差异，显示效果有很大不同，待修复，目前已知ColorOS和HyperOS显示正常，OriginOS显示有白色异物遮挡，HarmonyOS(基于安卓)显示图标反色异常",
             "remark" : "11-19",
