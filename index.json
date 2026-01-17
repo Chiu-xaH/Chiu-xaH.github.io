@@ -57,7 +57,7 @@
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/6QM31TLD9CYJy5R",
-    "Next" : false,
+    "Next" : true,
     "API" : "http://www.xah.com/",
     "useNewAPI" : false,
     "useCaptcha" : true,
