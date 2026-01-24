@@ -10,7 +10,7 @@
         "celebration" : false,
         "show" : false
     },
-    "semesterId" : "314",
+    "semesterId" : "334",
     "TimeStamp" : "",
     "Labs" : [
         {
@@ -47,8 +47,9 @@
     "API" : "http://www.xah.com/",
     "useNewAPI" : false,
     "useCaptcha" : true,
-    "startDay" : "2025-09-08"
+    "startDay" : "2026-03-02"
 }
+
 
 
 
