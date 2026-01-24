@@ -5,7 +5,7 @@
     },
     "SettingsInfo" : {
         "version" : "请更新",
-        "title" : "忙碌的学期已结束，寒假休息中😄",
+        "title" : "忙碌的学期已结束，寒假中😄",
         "info"  : "",
         "celebration" : true,
         "show" : true
@@ -49,6 +49,7 @@
     "useCaptcha" : true,
     "startDay" : "2026-03-02"
 }
+
 
 
 
