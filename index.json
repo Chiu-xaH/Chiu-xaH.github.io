@@ -5,10 +5,10 @@
     },
     "SettingsInfo" : {
         "version" : "请更新",
-        "title" : "",
+        "title" : "忙碌的学期已结束，寒假休息中😄",
         "info"  : "",
-        "celebration" : false,
-        "show" : false
+        "celebration" : true,
+        "show" : true
     },
     "semesterId" : "334",
     "TimeStamp" : "",
@@ -49,6 +49,7 @@
     "useCaptcha" : true,
     "startDay" : "2026-03-02"
 }
+
 
 
 
