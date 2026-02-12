@@ -5,7 +5,7 @@
     },
     "SettingsInfo" : {
         "version" : "请更新",
-        "title" : "距离过年还有 4 天",
+        "title" : "距离过年还有 3 天",
         "info"  : "",
         "celebration" : false,
         "show" : true
@@ -63,6 +63,7 @@
     "useCaptcha" : true,
     "startDay" : "2026-03-02"
 }
+
 
 
 
