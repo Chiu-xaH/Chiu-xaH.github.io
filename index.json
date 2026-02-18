@@ -7,8 +7,8 @@
         "version" : "请更新",
         "title" : "Happy Spring Festival",
         "info"  : "",
-        "celebration" : true,
-        "show" : true
+        "celebration" : false,
+        "show" : false
     },
     "semesterId" : "334",
     "TimeStamp" : "",
@@ -63,6 +63,7 @@
     "useCaptcha" : true,
     "startDay" : "2026-03-02"
 }
+
 
 
 
