@@ -7,7 +7,7 @@
         "version" : "请更新",
         "title" : "Happy Spring Festival",
         "info"  : "",
-        "celebration" : false,
+        "celebration" : true,
         "show" : false
     },
     "semesterId" : "334",
