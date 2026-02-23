@@ -7,7 +7,7 @@
         "version" : "请更新",
         "title" : "寒假中",
         "info"  : "",
-        "celebration" : true,
+        "celebration" : false,
         "show" : false
     },
     "semesterId" : "334",
