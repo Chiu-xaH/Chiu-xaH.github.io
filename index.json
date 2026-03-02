@@ -6,7 +6,7 @@
     "SettingsInfo" : {
         "version" : "请更新",
         "title" : "缓更公告",
-        "info"  : "最近在开发一个新的库，好久没写聚在工大的代码了，没有什么重要的Bug的话就先暂时延缓一下吧",
+        "info"  : "最近在开发一个新的库，可能最近暂时没时间顾及新功能的开发了",
         "celebration" : false,
         "show" : true
     },
