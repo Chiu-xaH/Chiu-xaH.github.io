@@ -34,27 +34,15 @@
             "id" : 4,
             "url" : null
         },
-        {
-            "title" : "已知Bug",
-            "info" : "桌面小组件由于各自系统差异，显示效果有很大不同，待修复，目前已知ColorOS和HyperOS显示正常，OriginOS显示有白色异物遮挡，HarmonyOS(基于安卓)显示图标反色异常",
-            "remark" : "11-19",
-            "id" : 3,
-            "url" : null
-        },
+        
          {
             "title" : "4.17.7.3用户须知",
             "info" : "还有22名在4.17.7.3版本的用户，此版本有Bug，一直显示当前为最新版本，已有新版本发布了，点击此卡片然后用浏览器打开下载",
             "remark" : "11-05",
             "id" : 2,
             "url" : "https://www.123912.com/s/pIY9-kuCfh"
-        },
-        {
-            "title" : "功能更新",
-            "info" : "开发者对图片验证码识别模型进行了训练，准确度提高，无需更新App，前往 选项-应用及配置-配置-图片验证码自动填充，先删除原模型，再重新点击下载即可体验(新用户无需操作，已经是新的模型了)",
-            "remark" : "10-02",
-            "id" : 1,
-            "url" : null
         }
+        
     ],
     "SchoolCalendar" : "https://sm.ms/image/6QM31TLD9CYJy5R",
     "Next" : false,
