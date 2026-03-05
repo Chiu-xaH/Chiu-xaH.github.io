@@ -34,7 +34,6 @@
             "id" : 4,
             "url" : null
         },
-        
          {
             "title" : "4.17.7.3用户须知",
             "info" : "还有22名在4.17.7.3版本的用户，此版本有Bug，一直显示当前为最新版本，已有新版本发布了，点击此卡片然后用浏览器打开下载",
@@ -42,7 +41,6 @@
             "id" : 2,
             "url" : "https://www.123912.com/s/pIY9-kuCfh"
         }
-        
     ],
     "SchoolCalendar" : "https://sm.ms/image/6QM31TLD9CYJy5R",
     "Next" : false,
@@ -51,6 +49,7 @@
     "useCaptcha" : true,
     "startDay" : "2026-03-02"
 }
+
 
 
 
