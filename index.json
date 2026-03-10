@@ -8,7 +8,7 @@
         "title" : "缓更公告",
         "info"  : "最近在开发一个新的库，可能最近暂时没时间顾及新功能的开发了",
         "celebration" : false,
-        "show" : true
+        "show" : false
     },
     "semesterId" : "334",
     "TimeStamp" : "",
@@ -49,6 +49,7 @@
     "useCaptcha" : true,
     "startDay" : "2026-03-02"
 }
+
 
 
 
