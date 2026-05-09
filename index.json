@@ -12,13 +12,7 @@
     },
     "semesterId" : "334",
     "TimeStamp" : "",
-    "Labs" : [
-        {
-            "title" : "思政云题库",
-            "info" : "https://sizhengke.capstone.fun/h5/",
-            "type" : "STARTURI"
-        }
-    ],
+    "Labs" : [],
     "Notifications" : [  
         {
             "title" : "公告",
