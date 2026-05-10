@@ -5,8 +5,8 @@
     },
     "SettingsInfo" : {
         "version" : "请更新",
-        "title" : " ",
-        "info"  : " ",
+        "title" : "Empty",
+        "info"  : "",
         "celebration" : false,
         "show" : false
     },
