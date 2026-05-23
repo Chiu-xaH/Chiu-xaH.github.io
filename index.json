@@ -14,6 +14,13 @@
     "TimeStamp" : "",
     "Labs" : [],
     "Notifications" : [  
+         {
+            "title" : "Tips",
+            "info" : "以外部浏览器打开本链接，登录后，再次打开本链接，即可在非校园网环境下使用体测平台",
+            "remark" : "05-23",
+            "id" : 7,
+            "url" : "https://webvpn.hfut.edu.cn/https/77726476706e69737468656265737421f2f34d8c69386e456a468ca88d1b203b/bdlp_h5_fitness_test/public/index.php/index/login/hfutLogin/"
+        },
         {
             "title" : "公告",
             "info" : "即将毕业的用户，可通过【选项-偏好与配置-备份与恢复】选择备份数据后，妥善保存此压缩包，可供纪念。（可以在【选项-偏好与配置-自动计算学期】手动切换每个学期后，回到聚焦页面下拉刷新，缓存大学四年所有的课程）感谢您选择本应用，欢迎随时回来",
