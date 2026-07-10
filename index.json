@@ -5,10 +5,10 @@
     },
     "SettingsInfo" : {
         "version" : "请更新",
-        "title" : "Empty",
+        "title" : "暑期快乐",
         "info"  : "",
-        "celebration" : false,
-        "show" : false
+        "celebration" : true,
+        "show" : true
     },
     "semesterId" : "334",
     "TimeStamp" : "",
