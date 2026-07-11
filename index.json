@@ -7,20 +7,13 @@
         "version" : "请更新",
         "title" : "暑期快乐",
         "info"  : "",
-        "celebration" : true,
+        "celebration" : false,
         "show" : true
     },
     "semesterId" : "334",
     "TimeStamp" : "",
     "Labs" : [],
     "Notifications" : [  
-        {
-            "title" : "提示",
-            "info" : "教务系统已发布下学期课程表，可在【选项-偏好与配置-课程表-当前学期】，切换到下学期后，重新刷新登陆，即可查看新的课程表和课程汇总（课程表方格变短是因为下学期实行新作息表，每节课时间缩水了，不是Bug）",
-            "remark" : "07-02",
-            "id" : 9,
-            "url" : null
-        },
         {
             "title" : "使用提示",
             "info" : "如有遇到在成绩(合工大教务数据源)、教室课表等功能登陆失效提示，可前往登录界面，单击右上角齿轮图标，选择一键刷新登录状态(合工大教务)；如有遇到在校园卡、查询、缴费等功能登陆失效提示，可前往登录界面，单击右上角齿轮图标，选择一键刷新登录状态(慧新易校)。",
@@ -37,7 +30,7 @@
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/6QM31TLD9CYJy5R",
-    "Next" : false,
+    "Next" : true,
     "API" : "http://www.xah.com/",
     "useNewAPI" : false,
     "useCaptcha" : true,
