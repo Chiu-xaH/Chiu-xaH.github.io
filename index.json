@@ -8,9 +8,9 @@
         "title" : "暑期快乐",
         "info"  : "",
         "celebration" : false,
-        "show" : true
+        "show" : false
     },
-    "semesterId" : "334",
+    "semesterId" : "354",
     "TimeStamp" : "",
     "Labs" : [],
     "Notifications" : [  
@@ -37,11 +37,11 @@
         }
     ],
     "SchoolCalendar" : "https://sm.ms/image/6QM31TLD9CYJy5R",
-    "Next" : true,
+    "Next" : false,
     "API" : "http://www.xah.com/",
     "useNewAPI" : false,
     "useCaptcha" : true,
-    "startDay" : "2026-03-02"
+    "startDay" : "2026-09-07"
 }
 
 
