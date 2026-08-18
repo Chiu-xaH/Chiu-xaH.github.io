@@ -5,10 +5,10 @@
     },
     "SettingsInfo" : {
         "version" : "请更新",
-        "title" : "暑期快乐",
+        "title" : "亲爱的用户们，最近在准备秋招了，更新频率会放缓，感谢谅解",
         "info"  : "",
         "celebration" : false,
-        "show" : false
+        "show" : true
     },
     "semesterId" : "354",
     "TimeStamp" : "",
