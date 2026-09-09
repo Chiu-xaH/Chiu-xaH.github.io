@@ -12,10 +12,20 @@
     },
     "semesterId" : "354",
     "TimeStamp" : "",
-    "Labs" : [
+    "Labs" : [ 
+        {
+            "info" : "http://jyxt.hfut.edu.cn/Pro_Student/Login.aspx",
+            "title" : "就业系统（默认密码为xs_身份证号后6位）",
+            "type" : "WEB"
+        },
         {
             "info" : "https://www.hfut.edu.cn/info/1143/12872.htm",
             "title" : "新交通班车运行安排表（试运行）",
+            "type" : "WEB"
+        },
+        {
+            "info" : "https://ehall.hfut.edu.cn/studentPortrait",
+            "title" : "信息门户-个人画像",
             "type" : "WEB"
         }
     ],
