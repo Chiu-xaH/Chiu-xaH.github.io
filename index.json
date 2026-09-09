@@ -12,7 +12,13 @@
     },
     "semesterId" : "354",
     "TimeStamp" : "",
-    "Labs" : [],
+    "Labs" : [
+        {
+            "info" : "https://www.hfut.edu.cn/info/1143/12872.htm",
+            "title" : "新交通班车运行安排表（试运行）",
+            "type" : "WEB"
+        }
+    ],
     "Notifications" : [  
         {
             "title" : "缓更通知",
